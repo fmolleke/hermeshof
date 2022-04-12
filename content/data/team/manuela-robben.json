@@ -1,0 +1,12 @@
+{
+    "type": "Person",
+    "firstName": "Manuela",
+    "lastName": "Robben",
+    "role": "Gründer",
+    "bio": "Hier können weitere Daten stehen",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/manuela-robben.jpg",
+        "altText": "Manuela Robben"
+    }
+}

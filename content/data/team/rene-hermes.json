@@ -1,0 +1,12 @@
+{
+    "type": "Person",
+    "firstName": "René",
+    "lastName": "Hermes",
+    "role": "Gründer",
+    "bio": "Hier können weitere Daten stehen",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/rene-hermes.jpg",
+        "altText": "René Hermes"
+    }
+}
