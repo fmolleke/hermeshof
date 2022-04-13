@@ -1,119 +1,15 @@
 ---
-title: FAQ
+title: Leitbild
 layout: PageLayout
 sections:
-  - colors: colors-a
+  - type: TextSection
     elementId: ''
-    title: Need Answers?
-    items:
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How is this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-32
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FaqSection
-  - elementId: ''
-    showDate: true
-    title: Recent posts
-    variant: variant-b
     colors: colors-a
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    title: Leitbild
+    text: |-
+      Wir teilen das humanistische Menschenbild nach Rogers, das besagt, dass sich „die Persönlichkeit eines jeden Menschen so entwickeln kann, dass ein Gefühl wahrer Selbstverwirklichung möglich ist. In tiefer Verbundenheit mit den eigenen Fähigkeiten und Talenten zu stehen, bedeutet sich selbst wahrzunehmen, sich anzuerkennen und zu lieben.“
+
+      Die dazu notwendigen Ressourcen und Handlungsoptionen werden durch die systemische Haltung unseres Hauses angestoßen.
     styles:
       self:
         height: auto
@@ -125,71 +21,85 @@ sections:
           - mr-0
         padding:
           - pt-12
-          - pb-36
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      text:
+        textAlign: center
+  - elementId: ''
+    colors: colors-h
+    variant: variant-b
+    testimonials:
+      - quote: >
+          „Niemand kann einen anderen davon überzeugen, sich zu ändern. Jeder von uns hat eine Tür zur Veränderung, die nur von innen geöffnet werden kann“
+        name: Virginia Satir
+        title: US-amerikanische Psychotherapeutin
+        image:
+          type: ImageBlock
+          url: /images/virginia-satir.jpg
+          altText: Foto von Virginia Satir
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-20
+          - pb-20
           - pl-4
           - pr-4
         justifyContent: center
       title:
         textAlign: left
       subtitle:
-        textAlign: center
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    actions:
-      - altText: ''
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
-        label: See all posts
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: inset
-    title: Get early access
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increae your team’s productivity
-    form:
-      type: FormBlock
-      variant: variant-b
-      elementId: contact-form
-      destination: ''
-      action: /.netlify/functions/submission_created
-      fields:
-        - name: email
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-      submitLabel: Sign Up
-      styles:
-        submitLabel:
-          textAlign: center
+        textAlign: left
+    type: TestimonialsSection
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    title:
+    text: |-
+      Gemäß Virginia Satir, die Pionierin der Systemik, ermöglichen wir den Kindern- und Jugendlichen durch eine angemessene Beziehungsarbeit, Alltags- und Organisationsstruktur, Individualität, Partizipation, Respekt und Wertschätzung ihre eigene individuelle Lebenswelt wahrzunehmen und Veränderungsmöglichkeiten erkennen und zulassen zu können.  Unsere systemische Haltung bietet die Möglichkeit herausfordernde Muster sowohl aus der Biographie (Herkunftsfamilie und andere Subsysteme), als auch aus dem aktuellen Lebensumfeld (Wohngruppe und andere Subsysteme) zu erkennen und in Veränderung zu bringen. 
+
+      Gerne begleiten wir die Kinder- und Jugendlichen mit unserer Philosophie bis hin zum Erwachsenwerden in unserem Hause. Wir freuen uns aber auch an einen möglichen  Prozess des Zusammenwachsens der Kinder und Jugendlichen mit ihren Herkunftsfamilien beteiligt zu sein.
+
     styles:
       self:
         height: auto
         width: wide
         margin:
-          - mt-24
+          - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-12
+          - pb-8
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
-        borderRadius: xx-large
+        borderRadius: none
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
       title:
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
         textAlign: center
       text:
         textAlign: center

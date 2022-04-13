@@ -68,7 +68,7 @@ sections:
         textAlign: center
   - type: FeaturedPeopleSection
     elementId: ''
-    variant: variant-b
+    variant: variant-a
     colors: colors-a
     title: Unser Team
     actions: []

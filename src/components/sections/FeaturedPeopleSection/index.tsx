@@ -6,6 +6,15 @@ import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import Action from '../../atoms/Action';
 import ImageBlock from '../../molecules/ImageBlock';
+import Mail from '../../svgs/mail';
+import Mobile from '../../svgs/mobile';
+import Telephone from '../../svgs/telephone';
+
+const iconMap = {
+    mail: Mail,
+    mobile: Mobile,
+    telephone: Telephone,
+};
 
 export default function FeaturedPeopleSection(props) {
     const cssId = props.elementId || null;
@@ -102,7 +111,7 @@ function peopleVariantA(props) {
     }
     return (
         <div
-            className={classNames('grid', 'gap-6', 'sm:grid-cols-2', 'lg:grid-cols-4', 'lg:gap-8', { 'mt-12': props.title || props.subtitle })}
+            className={classNames('grid', 'gap-6', 'sm:grid-cols-2', 'lg:grid-cols-2', 'lg:gap-8', { 'mt-12': props.title || props.subtitle })}
             data-sb-field-path=".people"
         >
             {people.map((person, index) => (
@@ -136,6 +145,11 @@ function peopleVariantB(props) {
     if (people.length === 0) {
         return null;
     }
+
+    const MailIconComponent = iconMap['mail'];
+    const MobilIconComponent = iconMap['mobile'];
+    const TelephonelIconComponent = iconMap['telephone'];
+
     return (
         <div className={classNames('grid', 'gap-x-8', 'gap-y-10', 'lg:grid-cols-2', { 'mt-12': props.title || props.subtitle })} data-sb-field-path=".people">
             {people.map((person, index) => (
@@ -170,6 +184,26 @@ function peopleVariantB(props) {
                                 {person.bio}
                             </Markdown>
                         )}
+                        <div className="mt-4">
+                            {(person.mail) && (
+                                <div className="flex items-center">
+                                    <MailIconComponent className="fill-current h-4 w-4 mr-2" />
+                                    {person.mail && <span data-sb-field-path=".mail">{person.mail}</span>}
+                                </div>
+                            )}
+                            {(person.mobile) && (
+                                <div className="flex items-center">
+                                    <MobilIconComponent className="fill-current h-4 w-4 mr-2" />
+                                    {person.mobile && <span data-sb-field-path=".mobile">{person.mobile}</span>}
+                                </div>
+                            )}
+                            {(person.telephone) && (
+                                <div className="flex items-center">
+                                    <TelephonelIconComponent className="fill-current h-4 w-4 mr-2" />
+                                    {person.telephone && <span data-sb-field-path=".telephone">{person.telephone}</span>}
+                                </div>
+                            )}
+                        </div>
                     </div>
                 </article>
             ))}

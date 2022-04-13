@@ -3,7 +3,10 @@
     "firstName": "Manuela",
     "lastName": "Robben",
     "role": "Gründer",
-    "bio": "Hier können weitere Daten stehen",
+    "bio": "",
+    "mail": "manuela.robben@hermeshof.com",
+    "mobile": "0174 212323",
+    "telephone": "05931 82312",
     "image": {
         "type": "ImageBlock",
         "url": "/images/manuela-robben.jpg",

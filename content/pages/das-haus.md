@@ -107,14 +107,16 @@ sections:
     colors: colors-a
     title: Das Erdgeschoss
     text: >
-      Das Erdgeschoss ist ein größerer Autonomie Bereich für Bewohner*innen und teilt sich in folgende Räumlichkeiten auf:<br><br>
+      Das Erdgeschoss ist ein größerer Autonomie Bereich für Bewohner*innen und teilt sich in folgende Räumlichkeiten auf:<br>
 
-      ⦁	Max. 3 Schlafzimmer  (eines davon als Doppelzimmer nutzbar)<br>
-      ⦁	Badezimmer<br>
-      ⦁	Teeküche<br>
-      ⦁	Gemeinschafts- und Aufenthaltsraum<br><br>
+      <ul>
+        <li>Max. 3 Schlafzimmer  (eines davon als Doppelzimmer nutzbar)</li>
+        <li>Badezimmer</li>
+        <li>Teeküche</li>
+        <li>Gemeinschafts- und Aufenthaltsraum</li>
+      </ul>
 
-      Die Fläche des Regelbereiches im Erdgeschoss beträgt ca. 108,19 qm
+      Die Fläche des Regelbereiches im Erdgeschoss beträgt ca. 108,19 qm.
     media:
       type: ImageBlock
       url: /images/hero-2.png
@@ -151,13 +153,15 @@ sections:
     text: >
       Das Obergeschoss des Hauses bietet Platz für 6 Kinder und Jugendliche. Das Obergeschoss teilt sich in folgende Räumlichkeiten auf:<br><br>
 
-      ⦁	5x Schlafzimmer mit 6 möglichen Plätzen<br>
-      ⦁	1x Mitarbeiterschlafzimmer<br>
-      ⦁	1x Mitarbeiterbüro<br>
-      ⦁	2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)<br>
-      ⦁	1x Küche und Wohnlandschaft<br>
-      ⦁	1x Dachterrasse <br>
-      ⦁	1x Hauswirtschaftsraum
+      <ul>
+        <li>5x Schlafzimmer mit 6 möglichen Plätzen</li>
+        <li>1x Mitarbeiterschlafzimmer</li>
+        <li>1x Mitarbeiterbüro</li>
+        <li>2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)</li>
+        <li>1x Küche und Wohnlandschaft</li>
+        <li>1x Dachterrasse</li>
+        <li>1x Hauswirtschaftsraum</li>
+      </ul>
     media:
       type: ImageBlock
       url: /images/hero-2.png

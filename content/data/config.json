@@ -65,7 +65,7 @@
         }
     },
     "footer": {
-        "colors": "colors-h",
+        "colors": "colors-c",
         "logo": {
             "altText": "altText of the image",
             "caption": "Caption of the image",
@@ -80,15 +80,15 @@
         },
         "title": "Starter",
         "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Our address"
+            "title": "Kontaktinformationen",
+            "phoneNumber": "05931 123123",
+            "phoneAltText": "Telefonnummer",
+            "email": "info@hermeshof.com",
+            "emailAltText": "E-Mail Adresse",
+            "address": "Am Stadtforst 47, Meppen",
+            "addressAltText": "Adresse"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Erstellt von [Florian Molleker](https://www.instagram.com/fmolleke/)",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -98,56 +98,61 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
+                "label": "Über uns",
+                "url": "/ueber-uns",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Leitbild",
+                "url": "/leitbild",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Zielgruppe",
+                "url": "/zielgruppe",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Das Haus",
+                "url": "/das-haus",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Kontakt",
+                "url": "/kontakt",
                 "altText": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "/",
+                "url": "https://www.instagram.com/fmolleke/",
                 "icon": "instagram"
             },
             {
                 "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
-                "url": "/",
+                "url": "https://www.facebook.com/florian.molleker/",
                 "icon": "facebook"
             }
         ],
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
+                "label": "Impressum",
+                "url": "/impressum"
             },
             {
                 "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
+                "label": "Datenschutz",
+                "url": "/datenschutz"
             }
         ],
         "styles": {

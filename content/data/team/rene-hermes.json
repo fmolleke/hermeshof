@@ -3,7 +3,10 @@
     "firstName": "René",
     "lastName": "Hermes",
     "role": "Gründer",
-    "bio": "Hier können weitere Daten stehen",
+    "bio": "",
+    "mail": "rene.hermes@hermeshof.com",
+    "mobile": "0174 212323",
+    "telephone": "05931 82312",
     "image": {
         "type": "ImageBlock",
         "url": "/images/rene-hermes.jpg",

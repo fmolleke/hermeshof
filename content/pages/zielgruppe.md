@@ -1,14 +1,15 @@
 ---
-title: Careers
+title: Zielgruppe
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
-    title: We’re growing fast
-    subtitle: You should join us.
+    colors: colors-a
+    title: Zielgruppe
+    text: >
+      In der Einrichtung HermesHof GmbH werden 10 Kinder/Jugendliche und junge Volljährige gem. § 34 SGB VIII ab dem 10. Lebensjahr betreut. Darüber hinaus besteht ein Platz zur Verselbständigung gem. § 41 SGB VII in einer separaten Einliegerwohnung. Bei der Wohngruppe HermesHof GmbH  handelt es sich um eine geschlechtsgemischte Gruppe. Aufgrund der großzügigen, räumlichen Gegebenheiten (Wohnfläche 406 qm) ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen und jungen Volljährigen einzugehen.
     media:
       type: ImageBlock
-      url: /images/hero-4.jpg
+      url: /images/hero-2.png
       altText: Hero section image
     styles:
       self:
@@ -20,59 +21,39 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-12
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: col
+        flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-  - elementId: ''
-    colors: colors-h
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s gaps, and we go to lunch together
-    name: Carla Rogers
-    title: Someone from the team
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-36
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
-    type: QuoteSection
-  - elementId: ''
+    type: FeatureHighlightSection
+  - type: TextSection
+    elementId: ''
     colors: colors-a
-    images:
-      - type: ImageBlock
-        url: /images/careers.jpg
-        altText: People in the meeting room
-      - type: ImageBlock
-        url: /images/post-2.jpg
-        altText: People in the meeting room
-    spacing: 3
-    columns: 2
-    aspectRatio: '1:1'
-    imageSizePx: 400
+    title: Aufnahmekriterien
+    text: |-
+      Aufgenommen werden Kinder und Jugendliche,<br>
+
+        <ul>
+          <li>die aufgrund von akuten und dauerhaften Krisen innerhalb der Herkunftsfamilie in dieser nicht leben können,</li>
+          <li>die von Vernachlässigung oder Gefährdung betroffen sind (Erziehungseinschränkung bis hin zu Erziehungsunfähigkeit, Suchtproblematik, Krankheit, Kriminalität der Erziehungsberechtigten,</li>
+          <li>die als Schulverweigerer gelten,</li>
+          <li>die dissoziales Verhalten nach Missbrauch-/ Missbrauchserfahrungen zeigen,</li>
+          <li>die psychische Auffälligkeiten aufweisen,</li>
+          <li>die von Trennung und Scheidung der Eltern betroffen sind,</li>
+          <li>die von erhöhten Strukturen und einem engeren Betreuungssetting profitieren,</li>
+          <li>die sozial bedingte Entwicklungsverzögerungen zeigen</li>
+        </ul>
     styles:
       self:
         height: auto
@@ -83,97 +64,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
-  - colors: colors-a
-    elementId: ''
-    title: Open roles
-    jobLists:
-      - type: JobList
-        title: Product
-        items:
-          - type: JobListItem
-            title: Director of product managment
-            location: San Francisco
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            actions:
-              - label: Apply
-                altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
-      - type: JobList
-        title: Engineering
-        items:
-          - type: JobListItem
-            title: Head of engineering
-            location: San Francisco
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            actions:
-              - label: Apply
-                altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
-          - type: JobListItem
-            title: Senior Backend Engineer
-            location: Remote
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            actions:
-              - label: Apply
-                altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
-      - type: JobList
-        title: Sales
-        items:
-          - type: JobListItem
-            title: Sales Development Representative
-            location: San Francisco
-            text: >
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-            actions:
-              - label: Apply
-                altText: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-                elementId: ''
-                type: Link
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-32
-          - pb-60
+          - pt-12
+          - pb-8
           - pl-4
           - pr-4
         justifyContent: center
@@ -182,76 +74,11 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: left
-      subtitle:
         textAlign: center
-    type: JobsSection
-  - elementId: contact-form
-    colors: colors-f
-    backgroundSize: inset
-    title: Not seeing the right role? Contact us
-    text: We might have more roles soon, and we’ll contact you if we think there might be a good match
-    form:
-      type: FormBlock
-      variant: variant-a
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: TextFormControl
-          name: first-name
-          label: Your first name
-          hideLabel: true
-          placeholder: First name
-          isRequired: false
-          width: 1/2
-        - type: TextFormControl
-          name: last-name
-          label: Your last name
-          hideLabel: true
-          placeholder: Last name
-          isRequired: false
-          width: 1/2
-        - type: EmailFormControl
-          name: email
-          label: Your email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-        - type: TextFormControl
-          name: address
-          label: Your address
-          hideLabel: true
-          placeholder: Address
-          isRequired: false
-          width: full
-      submitLabel: Submit
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-24
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: xx-large
-        boxShadow: xx-large
-      title:
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
         textAlign: center
       text:
-        textAlign: center
-    type: ContactSection
+        textAlign: left
 ---
