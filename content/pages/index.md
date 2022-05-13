@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: 'Kinder- und Jugendeinrichtung Hermes Hof GmbH'
+    title: 'Kinder- und Jugendhilfeeinrichtung HermesHof GmbH'
     subtitle: 'Wohngruppe mit systemischen Handlungsansatz'
     media:
       type: ImageBlock

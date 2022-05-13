@@ -40,6 +40,12 @@
             },
             {
                 "type": "Link",
+                "label": "Jobs",
+                "url": "/jobs",
+                "altText": ""
+            },
+            {
+                "type": "Link",
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "altText": ""
@@ -118,6 +124,12 @@
                 "type": "Link",
                 "label": "Das Haus",
                 "url": "/das-haus",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Jobs",
+                "url": "/jobs",
                 "altText": ""
             },
             {
