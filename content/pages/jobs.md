@@ -5,20 +5,30 @@ sections:
   - type: JobsSection
     colors: colors-a
     elementId: ''
-    title: Offene Jobs
-    subtitle: ''
+    title: Stellenausschreibungen
+    subtitle: 'Für die Neugründung der Wohngruppe HermesHof GmbH & Co. KG suchen wir folgende Stellen:'
     jobLists:
       - type: JobList
-        title: Product
         items:
           - type: JobListItem
-            title: Director of product management
-            location: Twist
+            title: Pädagogische Fachkräfte (m/w/d) in Voll- und Teilzeit
+            location: Twist/Schöninghsdorf
             text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+              Sie sind richtig bei uns, wenn Sie...
+              <br><br>
+              •	motiviert und engagiert sind, eine neue Wohngruppe mit Kindern (ab einem Aufnahmealter von 10 Jahren) aufzubauen<br>
+              •	Ihre pädagogischen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchten<br>
+              •	teamfähig und zuverlässig sind, sowie den systemischen Handlungsansatz umsetzen möchten<br>
+              •	Freude daran haben, den Alltag für und mit den Kindern/Jugendlichen und jungen Volljährigen zu gestalten
+
+              <br><br><br>
+
+              Sie erwartet...<br><br>
+
+              •	die Möglichkeit in einem innovativen, neu gegründetem Team, den pädagogischen Alltag mit dem systemischen Handlungsansatz der Kinder, Jugendlichen und jungen Volljährigen mitzugestalten<br>
+              •	eine Vergütung nach dem Tarifvertrag des öffentlichen Dienstes (TVöD)<br>
+              •	unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung<br>
+              •	der Zugang zu Fort- und Weiterbildungsmöglichkeiten in der Traumapädagogik und zum systemischen Grundgedanken
     styles:
       self:
         height: auto

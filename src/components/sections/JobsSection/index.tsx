@@ -88,13 +88,13 @@ function JobList(props) {
 function JobListItem(props) {
     const actions = props.actions || [];
     return (
-        <div className="max-w-screen-sm" data-sb-field-path={props['data-sb-field-path']}>
+        <div className="max-w-screen-xl" data-sb-field-path={props['data-sb-field-path']}>
             {props.title && (
-                <h4 className="text-xl font-normal" data-sb-field-path=".title">{props.title}</h4>
+                <h4 className="text-xl font-bold" data-sb-field-path=".title">{props.title}</h4>
             )}
             {props.location && (
                 <p
-                    className={classNames('text-xl', 'font-bold', { 'mt-4': props.title })}
+                    className={classNames('text-lg', 'font-normal', { 'mt-4': props.title })}
                     data-sb-field-path=".location"
                 >
                     {props.location}
