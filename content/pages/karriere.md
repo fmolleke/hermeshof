@@ -5,7 +5,7 @@ sections:
   - type: JobsSection
     colors: colors-a
     elementId: ''
-    title: Stellenausschreibungen
+    title: Karriere
     subtitle: 'Für die Neugründung der Wohngruppe HermesHof GmbH & Co. KG suchen wir folgende Stellen:'
     jobLists:
       - type: JobList

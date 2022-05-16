@@ -40,8 +40,8 @@
             },
             {
                 "type": "Link",
-                "label": "Jobs",
-                "url": "/jobs",
+                "label": "Karriere",
+                "url": "/karriere",
                 "altText": ""
             },
             {
@@ -128,8 +128,8 @@
             },
             {
                 "type": "Link",
-                "label": "Jobs",
-                "url": "/jobs",
+                "label": "Karriere",
+                "url": "/karriere",
                 "altText": ""
             },
             {
