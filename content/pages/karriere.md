@@ -1,5 +1,5 @@
 ---
-title: Jobs
+title: Karriere
 layout: PageLayout
 sections:
   - type: JobsSection
