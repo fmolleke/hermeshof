@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: HermesHof | Über uns
 layout: PageLayout
 sections:
   - elementId: ''

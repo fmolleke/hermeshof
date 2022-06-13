@@ -1,5 +1,5 @@
 ---
-title: Das Haus
+title: HermesHof | Das Haus
 layout: PageLayout
 sections:
   - elementId: ''

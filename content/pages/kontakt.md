@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: HermesHof | Kontakt
 layout: PageLayout
 sections:
   - type: FeaturedPeopleSection

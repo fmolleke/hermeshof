@@ -1,5 +1,5 @@
 ---
-title: Zielgruppe
+title: HermesHof | Zielgruppe
 layout: PageLayout
 sections:
   - elementId: ''

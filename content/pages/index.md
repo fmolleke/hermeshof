@@ -1,5 +1,5 @@
 ---
-title: Home
+title: HermesHof | Home
 layout: PageLayout
 sections:
   - type: HeroSection

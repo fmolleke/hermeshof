@@ -1,5 +1,5 @@
 ---
-title: Karriere
+title: HermesHof | Karriere
 layout: PageLayout
 sections:
   - type: JobsSection

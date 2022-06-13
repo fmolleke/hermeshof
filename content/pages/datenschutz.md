@@ -1,5 +1,5 @@
 ---
-title: Datenschutz
+title: HermesHof | Datenschutz
 layout: PageLayout
 sections:
   - type: TextSection

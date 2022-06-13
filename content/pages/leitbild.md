@@ -1,5 +1,5 @@
 ---
-title: Leitbild
+title: HermesHof | Leitbild
 layout: PageLayout
 sections:
   - type: TextSection
