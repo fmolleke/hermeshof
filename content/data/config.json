@@ -6,7 +6,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "title": "HermesHof",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -67,7 +67,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/images/logo_test.png"
         }
     },
     "footer": {
@@ -87,12 +87,12 @@
         "title": "HermesHof",
         "contacts": {
             "title": "Kontaktinformationen",
-            "phoneNumber": "05931 123123",
+            "phoneNumber": "+49 5935 1856",
             "phoneAltText": "Telefonnummer",
             "email": "info@hermeshof.com",
             "emailAltText": "E-Mail Adresse",
-            "address": "Am Stadtforst 47, Meppen",
-            "addressAltText": "Adresse"
+            "address": "Südstr. 268, 49767 Twist",
+            "addressAltText": "Anschrift"
         },
         "copyrightText": "Erstellt von [Florian Molleker](https://www.instagram.com/fmolleke/)",
         "primaryLinks": [
