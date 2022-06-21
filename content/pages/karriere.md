@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     elementId: ''
     title: Karriere
-    subtitle: 'Für die Neugründung der Wohngruppe HermesHof GmbH & Co. KG suchen wir folgende Stellen:'
+    subtitle: 'Für die Neugründung der Wohngruppe HermesHof GmbH & Co. KG suchen wir die unten aufgeführten Stellen. Ihre Bewerbung können Sie uns direkt an jobs@hermeshof.com schicken'
     jobLists:
       - type: JobList
         items:

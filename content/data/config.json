@@ -67,7 +67,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo_test.png"
+            "url": "/images/logo_no_bg.png"
         }
     },
     "footer": {
@@ -82,9 +82,9 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/images/logo_no_bg.png"
         },
-        "title": "HermesHof",
+        "title": "",
         "contacts": {
             "title": "Kontaktinformationen",
             "phoneNumber": "+49 5935 1856",
@@ -137,22 +137,6 @@
                 "label": "Kontakt",
                 "url": "/kontakt",
                 "altText": ""
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/fmolleke/",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/florian.molleker/",
-                "icon": "facebook"
             }
         ],
         "legalLinks": [

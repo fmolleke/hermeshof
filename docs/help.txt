@@ -1,0 +1,16 @@
+Social Links in config.json (selbe ebene wie legalLinks)
+
+{
+    "type": "Social",
+    "altText": "Instagram",
+    "label": "Instagram",
+    "url": "https://www.instagram.com/fmolleke/",
+    "icon": "instagram"
+},
+{
+    "type": "Social",
+    "altText": "Facebook",
+    "label": "Facebook",
+    "url": "https://www.facebook.com/florian.molleker/",
+    "icon": "facebook"
+}
