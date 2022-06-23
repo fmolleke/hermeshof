@@ -63,11 +63,12 @@
             "elementId": "",
             "styles": {
                 "self": {
-                    "opacity": 100
+                    "opacity": 100,
+                    "width": 100
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo_no_bg.png"
+            "url": "/images/logo.svg"
         }
     },
     "footer": {
@@ -82,7 +83,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo_no_bg.png"
+            "url": "/images/logo_white_text.svg"
         },
         "title": "",
         "contacts": {

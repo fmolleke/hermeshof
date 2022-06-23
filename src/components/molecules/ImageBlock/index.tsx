@@ -1,6 +1,11 @@
 import * as React from 'react';
 import classNames from 'classnames';
 
+interface style {
+    opacity?: number;
+    width?: string;
+}
+
 export default function ImageBlock(props) {
     const { url, altText } = props;
     if (!url) {
@@ -10,6 +15,7 @@ export default function ImageBlock(props) {
     const cssId = props.elementId || null;
     const styles = props.styles?.self || {};
     const imageOpacity = styles.opacity || styles.opacity === 0 ? styles.opacity : 100;
+    const imageWidth = styles.width;
     const annotationPrefix = props['data-sb-field-path'] || '';
     const annotations = [
         `${annotationPrefix}`,
@@ -18,13 +24,21 @@ export default function ImageBlock(props) {
         `${annotationPrefix}.elementId#@id`
     ];
 
+    const style: style = {
+        opacity: imageOpacity * 0.01
+    }
+
+    if (imageWidth) {
+        style.width = imageWidth + '%';
+    }
+
     return (
         <img
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
             src={url}
             alt={altText || ''}
-            style={{ opacity: imageOpacity * 0.01 }}
+            style={style}
             data-sb-field-path={annotations.join(' ').trim()}
         />
     );
