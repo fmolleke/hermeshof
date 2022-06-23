@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/logo.svg",
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
@@ -64,7 +64,8 @@
             "styles": {
                 "self": {
                     "opacity": 100,
-                    "width": 100
+                    "width": "100%",
+                    "height": "7rem"
                 }
             },
             "type": "ImageBlock",
@@ -79,7 +80,8 @@
             "elementId": "",
             "styles": {
                 "self": {
-                    "opacity": 100
+                    "opacity": 100,
+                    "height": "5rem"
                 }
             },
             "type": "ImageBlock",

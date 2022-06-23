@@ -21,7 +21,7 @@ export default function Footer(props) {
                 {(props.logo || props.title || props.text) && (
                     <div className="mb-12">
                         <Link href="/" className="sb-footer-logo flex items-center" data-sb-field-path=".title#span[1] .logo#img[1]">
-                            {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} />}
+                            {props.logo && <ImageBlock {...props.logo} className={classNames({ 'mr-2': props.title })} />}
                             {props.title && <span className="text-2xl tracking-wide">{props.title}</span>}
                         </Link>
                         {props.text && (

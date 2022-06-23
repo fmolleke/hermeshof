@@ -4,6 +4,7 @@ import classNames from 'classnames';
 interface style {
     opacity?: number;
     width?: string;
+    height?: string;
 }
 
 export default function ImageBlock(props) {
@@ -16,6 +17,7 @@ export default function ImageBlock(props) {
     const styles = props.styles?.self || {};
     const imageOpacity = styles.opacity || styles.opacity === 0 ? styles.opacity : 100;
     const imageWidth = styles.width;
+    const imageHeight = styles.height;
     const annotationPrefix = props['data-sb-field-path'] || '';
     const annotations = [
         `${annotationPrefix}`,
@@ -29,7 +31,11 @@ export default function ImageBlock(props) {
     }
 
     if (imageWidth) {
-        style.width = imageWidth + '%';
+        style.width = imageWidth;
+    }
+
+    if (imageHeight) {
+        style.height = imageHeight;
     }
 
     return (
