@@ -5,6 +5,7 @@ interface style {
     opacity?: number;
     width?: string;
     height?: string;
+    borderRadius?: string;
 }
 
 export default function ImageBlock(props) {
@@ -18,6 +19,7 @@ export default function ImageBlock(props) {
     const imageOpacity = styles.opacity || styles.opacity === 0 ? styles.opacity : 100;
     const imageWidth = styles.width;
     const imageHeight = styles.height;
+    const borderRadius = props.borderRadius;
     const annotationPrefix = props['data-sb-field-path'] || '';
     const annotations = [
         `${annotationPrefix}`,
@@ -25,7 +27,6 @@ export default function ImageBlock(props) {
         `${annotationPrefix}.altText#@alt`,
         `${annotationPrefix}.elementId#@id`
     ];
-
     const style: style = {
         opacity: imageOpacity * 0.01
     }
@@ -36,6 +37,10 @@ export default function ImageBlock(props) {
 
     if (imageHeight) {
         style.height = imageHeight;
+    }
+
+    if (borderRadius) {
+        style.borderRadius = borderRadius;
     }
 
     return (

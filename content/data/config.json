@@ -65,7 +65,7 @@
                 "self": {
                     "opacity": 100,
                     "width": "100%",
-                    "height": "7rem"
+                    "height": "5rem"
                 }
             },
             "type": "ImageBlock",

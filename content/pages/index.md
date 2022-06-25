@@ -4,12 +4,31 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-a
-    subtitle: >
-      Die stationäre Kinder- und Jugendhilfeeinrichtung HermesHof GmbH bietet 11 Kindern/Jugendlichen und jungen Volljährigen ab 10 Jahren ein zu Hause. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des SGB VIII in Verbindung mit § 34 und § 41.
     media:
       type: ImageBlock
       url: /images/home.jpg
       altText: Kinder
+      borderRadius: unset
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-0
+          - pb-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col-reverse
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
+    subtitle: >
+      Die stationäre Kinder- und Jugendhilfeeinrichtung HermesHof GmbH bietet 11 Kindern/Jugendlichen und jungen Volljährigen ab 10 Jahren ein zu Hause. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des SGB VIII in Verbindung mit § 34 und § 41.
     styles:
       self:
         height: auto
@@ -20,14 +39,143 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-2
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-4
+          - pb-2
+          - pr-3
+          - pl-3
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
       subtitle:
         textAlign: center
     type: HeroSection
+  - colors: colors-a
+    elementId: ''
+    items:
+      - type: FeaturedItem
+        title: Über uns
+        text: >
+          Lernen Sie unser Team und unsere Geschichte kennen
+        # featuredImage:
+        #   url: /images/about-us.png
+        #   altText: Über uns
+        #   caption: Über uns
+        #   elementId: ''
+        #   styles:
+        #     self:
+        #       opacity: 100
+        #   type: ImageBlock
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Mehr Informationen
+            altText: ''
+            url: /ueber-uns
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: Das Haus
+        text: >
+          Finden Sie hier alle Informationen über unsere Wohngruppe, unser Haus und weitere Bilder
+        # featuredImage:
+        #   url: /images/smarter.svg
+        #   altText: Das Haus
+        #   caption: Das Haus
+        #   elementId: ''
+        #   styles:
+        #     self:
+        #       opacity: 100
+        #   type: ImageBlock
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Mehr Informationen
+            altText: ''
+            url: /das-haus
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: Kontakt
+        text: >
+          Sie möchten uns kontaktieren? Hier finden Sie alle Informationen über unsere Kontaktinformationen
+        # featuredImage:
+        #   url: /images/focused.svg
+        #   altText: Kontakt
+        #   caption: Kontakt
+        #   elementId: ''
+        #   styles:
+        #     self:
+        #       opacity: 100
+        #   type: ImageBlock
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-dark
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Mehr Informationen
+            altText: ''
+            url: /kontakt
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+    columns: 3
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-20
+          - pb-20
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: flex-start
+    type: FeaturedItemsSection
 ---

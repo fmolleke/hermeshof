@@ -44,16 +44,16 @@ sections:
     text: |-
       Aufgenommen werden Kinder und Jugendliche,<br>
 
-        <ul>
-          <li>die aufgrund von akuten und dauerhaften Krisen innerhalb der Herkunftsfamilie in dieser nicht leben können,</li>
-          <li>die von Vernachlässigung oder Gefährdung betroffen sind (Erziehungseinschränkung bis hin zu Erziehungsunfähigkeit, Suchtproblematik, Krankheit, Kriminalität der Erziehungsberechtigten,</li>
-          <li>die als Schulverweigerer gelten,</li>
-          <li>die dissoziales Verhalten nach Missbrauch-/ Missbrauchserfahrungen zeigen,</li>
-          <li>die psychische Auffälligkeiten aufweisen,</li>
-          <li>die von Trennung und Scheidung der Eltern betroffen sind,</li>
-          <li>die von erhöhten Strukturen und einem engeren Betreuungssetting profitieren,</li>
-          <li>die sozial bedingte Entwicklungsverzögerungen zeigen</li>
-        </ul>
+      <ul>
+        <li>die aufgrund von akuten und dauerhaften Krisen innerhalb der Herkunftsfamilie in dieser nicht leben können,</li>
+        <li>die von Vernachlässigung oder Gefährdung betroffen sind (Erziehungseinschränkung bis hin zu Erziehungsunfähigkeit, Suchtproblematik, Krankheit, Kriminalität der Erziehungsberechtigten,</li>
+        <li>die als Schulverweigerer gelten,</li>
+        <li>die dissoziales Verhalten nach Missbrauch-/ Missbrauchserfahrungen zeigen,</li>
+        <li>die psychische Auffälligkeiten aufweisen,</li>
+        <li>die von Trennung und Scheidung der Eltern betroffen sind,</li>
+        <li>die von erhöhten Strukturen und einem engeren Betreuungssetting profitieren,</li>
+        <li>die sozial bedingte Entwicklungsverzögerungen zeigen</li>
+      </ul>
     styles:
       self:
         height: auto
