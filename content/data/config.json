@@ -40,6 +40,12 @@
             },
             {
                 "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
                 "label": "Karriere",
                 "url": "/karriere",
                 "altText": ""
@@ -127,6 +133,12 @@
                 "type": "Link",
                 "label": "Das Haus",
                 "url": "/das-haus",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
                 "altText": ""
             },
             {
