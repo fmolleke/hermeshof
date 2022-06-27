@@ -30,13 +30,9 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
+        textAlign: flex-start
       text:
-        textAlign: center
+        textAlign: left
   - elementId: ''
     colors: colors-h
     variant: variant-b
@@ -70,12 +66,10 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title:
     text: |-
       Gemäß Virginia Satir, die Pionierin der Systemik, ermöglichen wir den Kindern- und Jugendlichen durch eine angemessene Beziehungsarbeit, Alltags- und Organisationsstruktur, Individualität, Partizipation, Respekt und Wertschätzung ihre eigene individuelle Lebenswelt wahrzunehmen und Veränderungsmöglichkeiten erkennen und zulassen zu können.  Unsere systemische Haltung bietet die Möglichkeit herausfordernde Muster sowohl aus der Biographie (Herkunftsfamilie und andere Subsysteme), als auch aus dem aktuellen Lebensumfeld (Wohngruppe und andere Subsysteme) zu erkennen und in Veränderung zu bringen. 
 
       Gerne begleiten wir die Kinder- und Jugendlichen mit unserer Philosophie bis hin zum Erwachsenwerden in unserem Hause. Wir freuen uns aber auch an einen möglichen  Prozess des Zusammenwachsens der Kinder und Jugendlichen mit ihren Herkunftsfamilien beteiligt zu sein.
-
     styles:
       self:
         height: auto
@@ -95,12 +89,6 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
-      title:
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
       text:
-        textAlign: center
+        textAlign: left
 ---

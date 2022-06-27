@@ -21,6 +21,8 @@ sections:
         padding:
           - pt-12
           - pb-8
+          - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col
@@ -37,7 +39,7 @@ sections:
     colors: colors-a
     title: Unsere Geschichte
     text: >
-      Die Kinder- und Jugendhilfe HermesHof GmbH befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name der Einrichtung findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen
+      Die Kinder- und Jugendhilfe HermesHof GmbH befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name der Einrichtung findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen.
     media:
       type: ImageBlock
       url: /images/hero-2.png
