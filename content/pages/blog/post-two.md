@@ -1,14 +1,14 @@
 ---
-title: Virtual benefits
+title: Post 2
 layout: PostLayout
 date: '2021-06-28'
-author: content/data/team/dianne-ameter.json
+author: content/data/team/rene-hermes.json
 excerpt: >-
   Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/post-2.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''

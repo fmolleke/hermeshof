@@ -1,8 +1,8 @@
 ---
-title: Virtual benefits
+title: Post 1
 layout: PostLayout
-date: '2021-06-28'
-author: content/data/team/dianne-ameter.json
+date: '2022-06-27'
+author: content/data/team/manuela-robben.json
 excerpt: >-
   Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.

@@ -14,8 +14,3 @@ Social Links in config.json (selbe ebene wie legalLinks)
     "url": "https://www.facebook.com/florian.molleker/",
     "icon": "facebook"
 }
-
-google anayltics
-
-rene.hermes@hemreshof.com
-hermesHof2022!
