@@ -5,10 +5,6 @@ sections:
   - elementId: ''
     title: Über uns
     colors: colors-a
-    media:
-      type: ImageBlock
-      url: /images/hero-4.jpg
-      altText: Hero section image
     styles:
       self:
         height: auto
@@ -20,7 +16,6 @@ sections:
           - mr-0
         padding:
           - pt-12
-          - pb-8
           - pl-4
           - pr-4
         alignItems: center
@@ -40,7 +35,7 @@ sections:
     colors: colors-a
     title:
     text: |-
-      Wir, die Träger der Kinder- und Jugendhilfeeinrichtung HermesHof GmbH sind Manuela Robben (55 Jahre, systemische Beraterin und Therapeutin, praktische Betriebswirtin Heilerziehungspflegerin) und Rene Hermes (29 Jahre, Sozialpädagoge B.A. und Erzieher). Wir kennen uns aus einem gemeinsamen Arbeitskontext und haben in diesem festgestellt, dass wir ein gut funktionierendes Team darstellen. Die pädagogischen Grundsätze, Werte und Normen sowie das humanistische Menschenbild stimmen überein und sind, neben dem Bedürfnis nach einer neuen beruflichen Veränderung/Herausforderung der Anlass dafür, gemeinsam einen neuen beruflichen Weg einzuschlagen. Wir setzen in unserer Kinder- und Jugendhilfeeinrichtung HermesHof GmbH unser umfangreiches Erfahrungs- und Fachwissen, gepaart mit unserer Eigenmotivation ein und bieten Kindern und Jugendlichen die Chance,  in einem geschützten Rahmen heranzuwachsen.
+      Wir, die Träger der Kinder- und Jugendhilfeeinrichtung HermesHof GmbH sind Manuela Robben (55 Jahre, systemische Beraterin und Therapeutin, praktische Betriebswirtin Heilerziehungspflegerin) und Rene Hermes (29 Jahre, Sozialpädagoge B.A. und Erzieher). Wir kennen uns aus einem gemeinsamen Arbeitskontext und haben in diesem festgestellt, dass wir ein gut funktionierendes Team darstellen. Die pädagogischen Grundsätze, Werte und Normen sowie das humanistische Menschenbild stimmen überein und sind, neben dem Bedürfnis nach einer neuen beruflichen Veränderung/Herausforderung der Anlass dafür, gemeinsam einen neuen beruflichen Weg einzuschlagen. Wir setzen in unserer Kinder- und Jugendhilfeeinrichtung HermesHof GmbH unser umfangreiches Erfahrungs- und Fachwissen, gepaart mit unserer Eigenmotivation ein und bieten Kindern und Jugendlichen die Chance, in einem geschützten Rahmen heranzuwachsen.
     styles:
       self:
         height: auto

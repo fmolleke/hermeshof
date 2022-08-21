@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     media:
       type: ImageBlock
-      url: /images/home.jpg
+      # url: /images/home.jpg
       altText: Kinder
       borderRadius: unset
     styles:
@@ -28,7 +28,7 @@ sections:
   - elementId: ''
     colors: colors-a
     subtitle: >
-      Die stationäre Kinder- und Jugendhilfeeinrichtung HermesHof GmbH bietet 11 Kindern/Jugendlichen und jungen Volljährigen ab 10 Jahren ein zu Hause. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des SGB VIII in Verbindung mit § 34 und § 41.
+      Die Kinder- und Jugendhilfe „HermesHof GmbH & Co. KG“ bietet Platz für 10 Kinder und Jugendliche im Regelbereich und 2 Plätze im Verselbständigungsbereich. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41 SGB VIII.
     styles:
       self:
         height: auto

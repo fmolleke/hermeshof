@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     title: Zielgruppe
     text: >
-      In der Einrichtung HermesHof GmbH werden 10 Kinder/Jugendliche und junge Volljährige gem. § 34 SGB VIII ab dem 10. Lebensjahr betreut. Darüber hinaus besteht ein Platz zur Verselbständigung gem. § 41 SGB VII in einer separaten Einliegerwohnung. Bei der Wohngruppe HermesHof GmbH  handelt es sich um eine geschlechtsgemischte Gruppe. Aufgrund der großzügigen, räumlichen Gegebenheiten (Wohnfläche 406 qm) ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen und jungen Volljährigen einzugehen.
+      In der Einrichtung HermesHof GmbH werden 10 Kinder/Jugendliche und junge Volljährige gem. § 34 SGB VIII ab dem 10. Lebensjahr betreut. Darüber hinaus bestehen zwei Plätze zur Verselbständigung gem. § 41 SGB VIII in einer separaten Einliegerwohnung. Bei der Wohngruppe HermesHof GmbH  handelt es sich um eine geschlechtsgemischte Gruppe. Aufgrund der großzügigen, räumlichen Gegebenheiten (Wohnfläche 406 qm) ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen und jungen Volljährigen einzugehen.
     media:
       type: ImageBlock
       url: /images/hero-2.png
