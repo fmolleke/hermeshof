@@ -2,11 +2,30 @@
 title: HermesHof | Zielgruppe
 layout: PageLayout
 sections:
-  - elementId: ''
+  - type: TextSection
+    elementId: ''
     colors: colors-a
     title: Zielgruppe
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-6
+          - pl-4
+          - pr-4
+      title:
+        textAlign: center
+  - elementId: ''
+    colors: colors-a
     text: >
-      In der Einrichtung HermesHof GmbH werden 10 Kinder/Jugendliche und junge Volljährige gem. § 34 SGB VIII ab dem 10. Lebensjahr betreut. Darüber hinaus bestehen zwei Plätze zur Verselbständigung gem. § 41 SGB VIII in einer separaten Einliegerwohnung. Bei der Wohngruppe HermesHof GmbH  handelt es sich um eine geschlechtsgemischte Gruppe. Aufgrund der großzügigen, räumlichen Gegebenheiten (Wohnfläche 406 qm) ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen und jungen Volljährigen einzugehen.
+      In der Einrichtung HermesHof GmbH & Co. KG werden Kinder/Jugendliche oder unbegleitete minderjährige Flüchtlinge gem. § 34, 42 SGB VIII ab dem 10. Lebensjahr betreut. Bei Aufnahmeanfragen, die eine Geschwisterkonstellation beinhalten, kann in Absprache mit dem Landesjugendamt vom Aufnahmealter abgewichen werden. Bei der Wohngruppe HermesHof GmbH & Co. KG handelt es sich um eine geschlechtsgemischte Gruppe.
     media:
       type: ImageBlock
       url: /images/hero-2.png
@@ -21,21 +40,43 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-6
+          - pt-0
           - pb-6
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
       text:
         textAlign: left
-      actions:
-        justifyContent: flex-start
+    type: FeatureHighlightSection
+  - elementId: ''
+    colors: colors-a
+    text: >
+      Aufgrund der großzügigen, räumlichen Gegebenheiten ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen einzugehen. Das räumliche Konzept kann somit an die Bedürfnisse der Bewohner angepasst werden (Näheres dazu unter Punkt 7.1 „Das Stufenmodell“ sowie im Anhang Punkt 3. „Grundriss des Hauses“). Eine mögliche Verselbständigung für junge Volljährige gem. § 41 SGB VIII kann in unserem Hause angeboten werden. (Separates Leistungsangebot).
+    media:
+      type: ImageBlock
+      url: /images/hero-2.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-0
+          - pb-6
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      text:
+        textAlign: left
     type: FeatureHighlightSection
   - type: TextSection
     elementId: ''
@@ -65,7 +106,7 @@ sections:
           - mr-0
         padding:
           - pt-12
-          - pb-8
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center

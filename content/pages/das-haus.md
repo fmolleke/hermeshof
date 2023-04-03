@@ -39,7 +39,7 @@ sections:
     colors: colors-a
     title: Unsere Geschichte
     text: >
-      Die Kinder- und Jugendhilfe HermesHof GmbH befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name der Einrichtung findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen.
+      Die Kinder- und Jugendhilfe HermesHof GmbH & Co. KG befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name HermesHof GmbH & Co. KG  findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen. Auch die Kleintierhaltung findet auf dem Außengelände des HermesHofes Berücksichtigung (Hühner/Katzen).
     media:
       type: ImageBlock
       url: /images/hero-2.png
@@ -105,20 +105,48 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    title: Räumliches Angebot (Regelbereich)
+    text: |-
+      Die Platzzahl beschränkt sich im Regelbereich bei voller Auslastung auf 10 Plätze. Das pädagogische Angebot in Hinblick auf die Platzbelegung ist flexibel und richtet sich nach den Bedarfen der Kinder/Jugendlichen. Die räumlichen Gegebenheiten der stationären Nutzung gliedern sich wie folgt:
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+      text:
+        textAlign: left
   - elementId: ''
     colors: colors-a
-    title: Das Erdgeschoss
+    title: Regelbereich Erdgeschoss
     text: >
       Das Erdgeschoss ist ein größerer Autonomie Bereich für Bewohner*innen und teilt sich in folgende Räumlichkeiten auf:<br>
 
       <ul>
-        <li>Max. 3 Schlafzimmer  (eines davon als Doppelzimmer nutzbar)</li>
+        <li>3 Schlafzimmer </li>
         <li>Badezimmer</li>
-        <li>Teeküche</li>
-        <li>Gemeinschafts- und Aufenthaltsraum</li>
+        <li>Teeküche/Gemeinschafts- und Aufenthaltsraum</li>
       </ul>
 
-      Die Fläche des Regelbereiches im Erdgeschoss beträgt ca. 108,19 qm.
+      Die Fläche des Regelbereiches im Erdgeschoss beträgt ca. 75,20 qm.
     media:
       type: ImageBlock
       url: /images/hero-2.png
@@ -151,18 +179,17 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Das Obergeschoss
-    text: >
-      Das Obergeschoss des Hauses bietet Platz für 6 Kinder und Jugendliche. Das Obergeschoss teilt sich in folgende Räumlichkeiten auf:<br><br>
+    title: Obergeschoss
+    text: |-
+      Das Obergeschoss des Hauses bietet Platz für 7 Kinder und Jugendliche. Das Obergeschoss teilt sich in folgende Räumlichkeiten auf:
 
       <ul>
-        <li>5x Schlafzimmer mit 6 möglichen Plätzen</li>
-        <li>1x Mitarbeiterschlafzimmer</li>
-        <li>1x Mitarbeiterbüro</li>
-        <li>2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)</li>
-        <li>1x Küche und Wohnlandschaft</li>
-        <li>1x Dachterrasse</li>
-        <li>1x Hauswirtschaftsraum</li>
+        <li>5 Schlafzimmer mit 7 möglichen Plätzen</li>
+        <li>Mitarbeiterschlafzimmer</li>
+        <li>2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)</li>
+        <li>Küchen- und Wohnlandschaft</li>
+        <li>Dachterrasse</li>
+        <li>Hauswirtschaftsraum</li>
       </ul>
     media:
       type: ImageBlock
@@ -196,7 +223,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Das Außengelände
+    title: Außengelände
     text: >
       Das Außengelände verfügt über eine überdachte Terrasse, welches genutzt werden kann für Grillabende, Tischtennis, Tischkicker und viele andere Aktivitäten. Darüber hinaus befindet sich auf dem Außengelände ein Werkzeug-, Garten – und Fahrradschuppen, 2 Garagen, 1 Gartenholzhaus und genügend Rasenfläche für sportliche Aktivitäten.  Für die Fachkräfte, sowie externe Personen stehen ausreichend Parkplätze zur Verfügung.
     media:
@@ -231,9 +258,9 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Die Zimmer
+    title: Besprechungs- und Therapieraum
     text: >
-      Im Verlauf des Hilfeprozesses werden die Zimmer mit den Kindern/Jugendlichen nach Wunsch persönlich eingerichtet und gestaltet. Dabei können persönlich gestaltete Dekorationen aber auch die Erstausstattungsbeihilfe (Sonderaufwendungen im Einzelfall) genutzt werden. Diese gehen beim Auszug in den Besitz der Kinder/Jugendlichen über. 
+      Der Besprechungs- und Therapieraum befindet sich im vorderen Wohntrakt.  Dieser wird für Hilfeplangespräche, den systemischen Beratungssettings und der Dienstbesprechung genutzt. Für den täglichen Verwaltungsbedarf (Tagesdokumentation, Terminvereinbarungen usw.) steht den pädagogischen Mitarbeiter*innen im Obergeschoss des Hauses ein Personalbüro zur Verfügung.
     media:
       type: ImageBlock
       url: /images/hero-2.png
@@ -259,6 +286,70 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    title: Räumliches Angebot (Verselbständigung)
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: center
+  - elementId: ''
+    colors: colors-a
+    text: |-
+      Zur Verselbständigung wird dem/der Bewohner*in eine Einliegerwohnung zur Verfügung gestellt, die am Haupthaus der Wohngruppe (Regelgruppe) angegliedert ist. Die Einliegerwohnung hat einen separaten Zugang und ist ausgestattet mit:
+
+      <ul>
+        <li>einer Küche</li>
+        <li>einem Badezimmer</li>
+        <li>ein Gäste-WC</li>
+        <li>2 Schlafzimmer</li>
+      </ul>
+
+      Für das pädagogische Personal ist ein Zugang vom Haupthaus in die Einliegerwohnung über einen Seiteneingang möglich.  Die Einliegerwohnung verfügt über ca. 65 qm.
+    media:
+      type: ImageBlock
+      url: /images/hero-2.png
+      altText: Hero section image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
       text:
         textAlign: left
       actions:

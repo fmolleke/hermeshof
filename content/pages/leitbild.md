@@ -67,9 +67,11 @@ sections:
     elementId: ''
     colors: colors-a
     text: |-
-      Gemäß Virginia Satir, die Pionierin der Systemik, ermöglichen wir den Kindern- und Jugendlichen durch eine angemessene Beziehungsarbeit, Alltags- und Organisationsstruktur, Individualität, Partizipation, Respekt und Wertschätzung ihre eigene individuelle Lebenswelt wahrzunehmen und Veränderungsmöglichkeiten erkennen und zulassen zu können.  Unsere systemische Haltung bietet die Möglichkeit herausfordernde Muster sowohl aus der Biographie (Herkunftsfamilie und andere Subsysteme), als auch aus dem aktuellen Lebensumfeld (Wohngruppe und andere Subsysteme) zu erkennen und in Veränderung zu bringen.
+      Gemäß Virginia Satir, die Pionierin der Systemik, ermöglichen wir den Kindern- und Jugendlichen durch eine angemessene Beziehungsarbeit, Alltags- und Organisationsstruktur, Individualität, Partizipation, Respekt und Wertschätzung ihre eigene individuelle Lebenswelt wahrzunehmen und Veränderungsmöglichkeiten erkennen und zulassen zu können. Unsere systemische Haltung bietet die Möglichkeit herausfordernde Muster sowohl aus der Biographie (Herkunftsfamilie und andere Subsysteme), als auch aus dem aktuellen Lebensumfeld (Wohngruppe und andere Subsysteme) zu erkennen und in Veränderung zu bringen.
 
-      Gerne begleiten wir die Kinder- und Jugendlichen mit unserer Philosophie bis hin zum Erwachsenwerden in unserem Hause. Wir freuen uns aber auch an einen möglichen  Prozess des Zusammenwachsens der Kinder und Jugendlichen mit ihren Herkunftsfamilien beteiligt zu sein.
+      Gerne begleiten wir die Kinder- und Jugendlichen mit unserer Philosophie bis hin zum Erwachsen werden in unserem Hause. Wir freuen uns aber auch an einen möglichen Prozess des Zusammenwachsens der Kinder und Jugendlichen mit ihren Herkunftsfamilien beteiligt zu sein.
+
+      Für die unbegleiteten minderjährigen Flüchtlinge soll die Einrichtung HermesHof GmbH & Co. KG eine vorrübergehende oder längerfristige Beheimatung darstellen, die als positiver Lebensort wahrgenommen wird. Die jungen Menschen sollen darin befähigt werden, die einschneidende Lebensgeschichte und deren Erfahrungen anzunehmen, diese aufzuarbeiten, um eine positive neue Perspektive entwickeln und im weiteren Verlauf festigen zu können.
     styles:
       self:
         height: auto

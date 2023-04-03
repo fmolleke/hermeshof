@@ -2,40 +2,12 @@
 title: HermesHof | Über uns
 layout: PageLayout
 sections:
-  - elementId: ''
-    title: Über uns
-    colors: colors-a
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title:
+    title: Über uns
     text: |-
-      Wir, die Träger der Kinder- und Jugendhilfeeinrichtung HermesHof GmbH sind Manuela Robben (55 Jahre, systemische Beraterin und Therapeutin, praktische Betriebswirtin Heilerziehungspflegerin) und Rene Hermes (29 Jahre, Sozialpädagoge B.A. und Erzieher). Wir kennen uns aus einem gemeinsamen Arbeitskontext und haben in diesem festgestellt, dass wir ein gut funktionierendes Team darstellen. Die pädagogischen Grundsätze, Werte und Normen sowie das humanistische Menschenbild stimmen überein und sind, neben dem Bedürfnis nach einer neuen beruflichen Veränderung/Herausforderung der Anlass dafür, gemeinsam einen neuen beruflichen Weg einzuschlagen. Wir setzen in unserer Kinder- und Jugendhilfeeinrichtung HermesHof GmbH unser umfangreiches Erfahrungs- und Fachwissen, gepaart mit unserer Eigenmotivation ein und bieten Kindern und Jugendlichen die Chance, in einem geschützten Rahmen heranzuwachsen.
+      Wir, die Träger der Kinder- und Jugendhilfeeinrichtung Hermeshof GmbH & Co. KG & Co. KG sind Manuela Robben (55 Jahre, systemische Beraterin und Therapeutin, praktische Betriebswirtin, Heilerziehungspflegerin) und Rene Hermes (29 Jahre, Sozialpädagoge B.A., Erzieher). Wir kennen uns aus einem gemeinsamen Arbeitskontext und haben in diesem festgestellt, dass wir ein gut funktionierendes Team darstellen. Die pädagogischen Grundsätze, Werte und Normen sowie das humanistische Menschenbild stimmen überein und sind, neben dem Bedürfnis nach einer neuen beruflichen Veränderung/Herausforderung der Anlass dafür, gemeinsam einen neuen beruflichen Weg einzuschlagen. Wir setzen in unserer Kinder- und Jugendhilfeeinrichtung Hermeshof GmbH & Co. KG & Co. KG unser umfangreiches Erfahrungs- und Fachwissen, gepaart mit unserer Eigenmotivation ein und bieten Kindern/Jugendlichen und jungen Volljährigen die Chance, in einem geschützten Rahmen heranzuwachsen.
     styles:
       self:
         height: auto
@@ -57,12 +29,8 @@ sections:
         borderColor: border-dark
       title:
         textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
       text:
-        textAlign: center
+        textAlign: left
   - type: FeaturedPeopleSection
     elementId: ''
     variant: variant-a

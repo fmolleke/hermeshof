@@ -28,7 +28,7 @@ sections:
   - elementId: ''
     colors: colors-a
     subtitle: >
-      Die Kinder- und Jugendhilfe „HermesHof GmbH & Co. KG“ bietet Platz für 10 Kinder und Jugendliche im Regelbereich und 2 Plätze im Verselbständigungsbereich. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41 SGB VIII.
+      Die Kinder- und Jugendhilfe „Hermeshof GmbH & Co. KG & Co. KG“ bietet Platz für 10 Kinder und Jugendliche im Regel- und 2 Plätze im Verselbständigungsbereich. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41, 42 SGB VIII.
     styles:
       self:
         height: auto
