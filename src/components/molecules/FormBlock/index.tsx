@@ -115,8 +115,8 @@ export default class FormBlock extends React.Component<any> {
                         >
                             {submitLabel}
                         </button>
-                        {this.state.submitted && <span className="ml-8">Thank you, your message was sent.</span>}
-                        {this.state.error && <span className="ml-8 text-info">Something went wrong, please try again.</span>}
+                        {this.state.submitted && <span className="ml-8">Vielen Dank, deine Nachricht wurde versendet.</span>}
+                        {this.state.error && <span className="ml-8 text-info">Etwas ist schief gelaufen, probiere es nochmal.</span>}
                     </div>
                 </div>
             </form>
