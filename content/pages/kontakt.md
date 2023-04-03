@@ -48,7 +48,7 @@ sections:
       type: FormBlock
       variant: variant-a
       elementId: contact-form
-      action: /.netlify/functions/submission_created
+      action: /.netlify/functions/contact-form
       destination: ''
       fields:
         - type: TextFormControl
