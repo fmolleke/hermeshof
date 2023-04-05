@@ -28,7 +28,7 @@ sections:
   - elementId: ''
     colors: colors-a
     subtitle: >
-      Die Kinder- und Jugendhilfe „Hermeshof GmbH & Co. KG & Co. KG“ bietet Platz für 10 Kinder und Jugendliche im Regel- und 2 Plätze im Verselbständigungsbereich. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41, 42 SGB VIII.
+      Die Kinder- und Jugendhilfe „Hermeshof GmbH & Co. KG & Co. KG“ bietet Platz für 12 unbegleitete, minderjährige Geflüchtete aus unterschiedlichen Herkunftsländern. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41, 42 SGB VIII.
     styles:
       self:
         height: auto
@@ -117,10 +117,43 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+      # - type: FeaturedItem
+      #   title: Kontakt
+      #   text: >
+      #     Sie möchten uns kontaktieren? Hier finden Sie alle Informationen über unsere Kontaktinformationen
+      #   # featuredImage:
+      #   #   url: /images/focused.svg
+      #   #   altText: Kontakt
+      #   #   caption: Kontakt
+      #   #   elementId: ''
+      #   #   styles:
+      #   #     self:
+      #   #       opacity: 100
+      #   #   type: ImageBlock
+      #   styles:
+      #     self:
+      #       textAlign: left
+      #       borderColor: border-dark
+      #       borderWidth: 1
+      #       borderStyle: solid
+      #       padding:
+      #         - pt-4
+      #         - pl-4
+      #         - pb-6
+      #         - pr-4
+      #   actions:
+      #     - type: Link
+      #       label: Mehr Informationen
+      #       altText: ''
+      #       url: /kontakt
+      #       showIcon: true
+      #       icon: arrowRight
+      #       iconPosition: right
+      #       elementId: ''
       - type: FeaturedItem
-        title: Kontakt
+        title: Wir suchen Sie!
         text: >
-          Sie möchten uns kontaktieren? Hier finden Sie alle Informationen über unsere Kontaktinformationen
+          Sie sind auf der Suche nach einem neuen Job und liebes es, mit Kindern zu arbeiten? Dann bewerben Sie sich bei uns!
         # featuredImage:
         #   url: /images/focused.svg
         #   altText: Kontakt
@@ -145,7 +178,7 @@ sections:
           - type: Link
             label: Mehr Informationen
             altText: ''
-            url: /kontakt
+            url: /karriere
             showIcon: true
             icon: arrowRight
             iconPosition: right

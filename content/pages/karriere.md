@@ -57,7 +57,6 @@ sections:
       - Rene Hermes -
 
       wohngruppehermeshof@gmail.com<br>
-      info@hermeshof.com<br>
       Für weitere Informationen melden Sie sich gerne auch telefonisch unter <br>
       0160/5287710
     styles:

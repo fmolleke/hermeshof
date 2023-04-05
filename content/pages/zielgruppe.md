@@ -53,7 +53,7 @@ sections:
   - elementId: ''
     colors: colors-a
     text: >
-      Aufgrund der großzügigen, räumlichen Gegebenheiten ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen einzugehen. Das räumliche Konzept kann somit an die Bedürfnisse der Bewohner angepasst werden (Näheres dazu unter Punkt 7.1 „Das Stufenmodell“ sowie im Anhang Punkt 3. „Grundriss des Hauses“). Eine mögliche Verselbständigung für junge Volljährige gem. § 41 SGB VIII kann in unserem Hause angeboten werden. (Separates Leistungsangebot).
+      Aufgrund der großzügigen, räumlichen Gegebenheiten ist es möglich, flexibel auf die Bedürfnisse und Bedarfe der Kinder/Jugendlichen einzugehen. Das räumliche Konzept kann somit an die Bedürfnisse der Bewohner angepasst werden. Eine mögliche Verselbständigung für junge Volljährige gem. § 41 SGB VIII kann in unserem Hause angeboten werden. (Separates Leistungsangebot).
     media:
       type: ImageBlock
       url: /images/hero-2.png
