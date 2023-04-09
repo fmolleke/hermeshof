@@ -48,50 +48,39 @@ sections:
       type: FormBlock
       variant: variant-a
       elementId: contact-form
-      action: /
-      destination: 'contact-form'
+      action: /.netlify/functions/submission_created
+      destination: ''
       fields:
         - type: TextFormControl
           name: firma
           label: Firma *
-          # placeholder: Deine Telefonnummer
           isRequired: 'true'
           width: full
         - type: TextFormControl
           name: vorname
           label: Vorname *
-          # placeholder: Dein Vorname
           isRequired: 'true'
           width: 1/2
         - type: TextFormControl
           name: nachname
           label: Nachname *
-          # placeholder: Dein Nachname
           isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
           name: email
           label: E-Mail *
-          # placeholder: Deine E-Mail
           isRequired: 'true'
           width: 1/2
         - type: TextFormControl
           name: telefon
           label: Telefon *
-          # placeholder: Deine Telefonnummer
           isRequired: 'true'
           width: 1/2
         - type: TextareaFormControl
           name: nachricht
           label: Nachricht *
-          # placeholder: Deine Nachricht
           isRequired: 'true'
           width: full
-        # - type: CheckboxFormControl
-        #   name: updates
-        #   label: Sign me up to receive updates
-        #   isRequired: 'false'
-        #   width: full
       submitLabel: Nachricht senden
     media: null
     styles:
