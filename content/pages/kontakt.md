@@ -48,6 +48,7 @@ sections:
       type: FormBlock
       variant: variant-a
       elementId: contact-form
+      action: /
       destination: ''
       fields:
         - type: TextFormControl
