@@ -16,14 +16,14 @@ export default class FormBlock extends React.Component<any> {
     formHandler(data, url) {
         console.log('formHandler', data, url)
         return axios({
-            method: 'post',
+            method: 'POST',
             url,
-            data
+            data: new URLSearchParams(data).toString(),
+            headers: { "Content-Type": "application/x-www-form-urlencoded" }
         });
     }
 
     handleSubmit(event, formAction) {
-        console.log('handleSubmit', event, formAction)
         event.preventDefault();
 
         const data = new FormData(this.formRef.current);
@@ -34,7 +34,7 @@ export default class FormBlock extends React.Component<any> {
             error: false
         });
 
-        this.formHandler(value, formAction)
+        this.formHandler(data, formAction)
             .then(() => {
                 this.setState({
                     submitted: true
@@ -79,11 +79,12 @@ export default class FormBlock extends React.Component<any> {
                 className={classNames('sb-component', 'sb-component-block', 'sb-component-form-block', className)}
                 name={elementId}
                 id={elementId}
-                // onSubmit={(e) => this.handleSubmit(e, action)}
+                onSubmit={(e) => this.handleSubmit(e, action)}
                 data-netlify="true"
                 ref={this.formRef}
                 data-netlify-honeypot={formHoneypotName}
                 data-sb-field-path={annotation}
+                method="post"
             >
                 <div className={classNames('w-full', 'flex', 'flex-col', { 'sm:flex-row sm:items-end': variant === 'variant-b' })}>
                     <div
@@ -91,7 +92,7 @@ export default class FormBlock extends React.Component<any> {
                         data-sb-field-path=".fields"
                     >
                         <input type="hidden" name="form-name" value={elementId} />
-                        <input type="hidden" name="form-destination" value={destination} />
+                        {/* <input type="hidden" name="form-destination" value={destination} /> */}
                         {fields.map((field, index) => {
                             const fieldType = field.type;
                             if (!fieldType) {

@@ -54,32 +54,32 @@ sections:
         - type: TextFormControl
           name: firma
           label: Firma *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: full
         - type: TextFormControl
           name: vorname
           label: Vorname *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: 1/2
         - type: TextFormControl
           name: nachname
           label: Nachname *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
           name: email
           label: E-Mail *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: 1/2
         - type: TextFormControl
           name: telefon
           label: Telefon *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: 1/2
         - type: TextareaFormControl
           name: nachricht
           label: Nachricht *
-          isRequired: 'true'
+          # isRequired: 'true'
           width: full
       submitLabel: Nachricht senden
     media: null
