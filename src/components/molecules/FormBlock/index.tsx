@@ -14,6 +14,7 @@ export default class FormBlock extends React.Component<any> {
     formRef = React.createRef<HTMLFormElement>();
 
     formHandler(data, url) {
+        // console.log('formHandler', data, url)
         return axios({
             method: 'post',
             url,
@@ -22,6 +23,7 @@ export default class FormBlock extends React.Component<any> {
     }
 
     handleSubmit(event, formAction) {
+        // console.log('handleSubmit', event, formAction)
         event.preventDefault();
 
         const data = new FormData(this.formRef.current);

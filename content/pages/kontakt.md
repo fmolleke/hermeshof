@@ -48,8 +48,8 @@ sections:
       type: FormBlock
       variant: variant-a
       elementId: contact-form
-      action: /.netlify/functions/submission_created
       destination: ''
+      action: '/'
       fields:
         - type: TextFormControl
           name: firma
