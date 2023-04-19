@@ -47,9 +47,9 @@ sections:
     form:
       type: FormBlock
       variant: variant-a
-      elementId: contact-form
+      elementId: kontakt-form
       destination: ''
-      action: ''
+      action: /
       fields:
         - type: TextFormControl
           name: firma
