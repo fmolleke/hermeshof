@@ -49,7 +49,7 @@ sections:
       variant: variant-a
       elementId: contact-form
       destination: ''
-      action: '/'
+      action: ''
       fields:
         - type: TextFormControl
           name: firma
