@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Magdalena",
+    "lastName": "Hermes",
+    "role": "Hauswirtschaftskraft",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/Magdalena-Hermes.jpg",
+        "altText": "Magdalena Hermes"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Sammy",
+    "lastName": "Schulte",
+    "role": "Hausmeister",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/blank.png",
+        "altText": "Sammy Schulte"
+    }
+}

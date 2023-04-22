@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Sissy",
+    "lastName": "Hoeft",
+    "role": "Pädagogische Mitarbeiter*innen",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/Sissy-Hoeft.jpg",
+        "altText": "Sissy Hoeft"
+    }
+}

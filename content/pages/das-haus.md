@@ -321,12 +321,10 @@ sections:
     text: |-
       Zur Verselbständigung wird dem/der Bewohner*in eine Einliegerwohnung zur Verfügung gestellt, die am Haupthaus der Wohngruppe (Regelgruppe) angegliedert ist. Die Einliegerwohnung hat einen separaten Zugang und ist ausgestattet mit:
 
-      <ul>
-        <li>einer Küche</li>
-        <li>einem Badezimmer</li>
-        <li>ein Gäste-WC</li>
-        <li>2 Schlafzimmer</li>
-      </ul>
+      - einer Küche
+      - einem Badezimmer
+      - ein Gäste-WC
+      - 2 Schlafzimmer
 
       Für das pädagogische Personal ist ein Zugang vom Haupthaus in die Einliegerwohnung über einen Seiteneingang möglich.  Die Einliegerwohnung verfügt über ca. 65 qm.
     media:

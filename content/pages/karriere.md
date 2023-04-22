@@ -6,28 +6,29 @@ sections:
     colors: colors-a
     elementId: ''
     title: Karriere
-    subtitle: 'Für die Wohngruppe HermesHof GmbH & Co. KG (Twist/Schöninghsdorf) suchen wir fortlaufend'
+    subtitle: 'Für unsere Wohngruppe für unbegleitete minderjährige Geflüchtete der HermesHof GmbH & Co. KG (Twist/Schöninghsdorf) suchen wir:'
     jobLists:
       - type: JobList
         items:
           - type: JobListItem
-            title: Pädagogische Fachkräfte (m/w/d) in Voll- und Teilzeit
+            title: pädagogische Fachkräfte (m/w/d) (Sozialpädagog*innen, Erzieher*innen, Heilerziehungspfleger*innen, Sozialpädagog*innen im Berufsanerkennungsjahr, Sozialassistenten*innen, Arbeitspädagog*innen sowie Quereinsteiger*innen in Voll- und Teilzeit.
             location: Twist/Schöninghsdorf
             text: |-
               Sie sind richtig bei uns, wenn Sie...
 
-              •	Ihre pädagogischen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchten<br>
-              •	teamfähig und zuverlässig sind, sowie den systemischen Handlungsansatz umsetzen möchten <br>
-              •	Freude daran haben, den Alltag für und mit den Jugendlichen und jungen Volljährigen zu gestalten<br>
-              •	Offen gegenüber anderen Kulturen sind und Lust auf die Arbeit mit geflüchteten Menschen haben
+              - motiviert und engagiert sind, unbegleitete minderjährige Geflüchtete aus verschiedenen Herkunftsländern ab einem Alter von 13 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen.	
+              - Ihre kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchten.
+              - teamfähig und zuverlässig sind, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchten.
+
 
 
               Sie erwartet...
 
-              •	die Möglichkeit in einem motivierten und innovativen Team, den pädagogischen Alltag mit dem systemischen Handlungsansatz der Jugendlichen und jungen Volljährigen mitzugestalten<br>
-              •	eine Vergütung angelehnt am Tarifvertrag des öffentlichen Dienstes (TVöD)<br>
-              •	unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung<br>
-              •	der Zugang zu Fort- und Weiterbildungsmöglichkeiten in der Traumapädagogik und zum systemischen Grundgedanken
+              - die Möglichkeit in einem innovativen, im Jahr 2022 gegründetem Team, den pädagogischen Alltag der Kinder, Jugendlichen und jungen Volljährigen mitzugestalten.
+              - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD)
+              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung.
+              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken.
+
     styles:
       self:
         height: auto

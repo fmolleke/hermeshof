@@ -5,142 +5,478 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: Datenschutz
+    title: Datenschutzerklärung
     styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
       title:
         textAlign: center
   - type: TextSection
-    elementId: ''
     colors: colors-a
-    subtitle: Geltungsbereich und Verantwortlichkeit
+    title: 1. Datenschutz auf einen Blick
+    subtitle: Allgemeine Hinweise
     text: |-
-      Diese Datenschutzinformationen gelten nur für die Verarbeitung personenbezogener Daten bei dem Besuch und der Nutzung unserer Webseite https://www.hermeshof.com und der auf der Website befindlichen Web App. Die Datenschutzinformationen gelten nicht wir Webseiten oder Apps anderer Anbieter, auf die wir im Rahmen unseres Online-Angebots verweisen. Bitte informiere Dich auf bei dem jeweiligen Anbieter über den Umgang mit deinen Daten, falls Du von unserem Online-Angebot auf andere Webseiten oder Apps weitergeleitet wirst.
-
-      Personenbezogene Daten sind nach Art. 4 Nr. 1 DS-GVO alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen („betroffene Person“). Hierunter fallen z.B. persönliche Angaben wie Name, Anschrift, E-Mail-Adresse und Telefonnummer, aber auch weitergehende Informationen, wie z.B. Nachrichten, die Du uns schickst oder dein Nutzerverhalten in Bezug auf unser Online-Angebot. Die Erkärung für alle weiteren Begrifflichkeiten findest Du in den Begriffsbestimmungen des Art. 4 DS-GVO.
+      Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten
+      passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
+      persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen
+      Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
     styles:
       self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
+          - pt-16
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
   - type: TextSection
-    elementId: ''
     colors: colors-a
-    subtitle: Verantwortlicher im Sinne des Art. 4 Nr. 7 DS-GVO ist
-    text: |-
-      Hermes Hof GmbH<br>
-      Am Stadtforst 47<br>
-      49716 Meppen<br>
-      Telefon: +49123123123<br>
-      Inhaltlich Verantwortlicher gem. § 55 II RStV: Florian Molleker (Anschrift s.o.)
-
-      Wir möchten wir dich mit diesen Datenschutzhinweisen über unsere Verarbeitungsvorgänge informieren und zugleich den gesetzlichen Pflichten, insbesondere aus der EU-Datenschutz-Grundverordnung (DS-GVO), nachkommen.
+    subtitle: Datenerfassung auf dieser Website
     styles:
       self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
   - type: TextSection
-    elementId: ''
     colors: colors-a
-    subtitle: Welche personenbezogenen Daten erfassen wir?
+    subtitle: Wer ist verantwortlich für die Datenerfassung auf dieser Website?
     text: |-
-      Bei der Benutzung unseres Online-Angebots erheben wir verschiedene Kategorien personenbezogener Daten zu unterschiedlichen Zwecken. Wir möchten diese Datenverarbeitungsvorgänge im Folgenden so übersichtlich wie möglich für Dich darstellen.
+      Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
+      können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.
     styles:
       self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
   - type: TextSection
-    elementId: ''
     colors: colors-a
-    subtitle: Kontaktaufnahme per E-Mail oder Telefon
+    subtitle: Wie erfassen wir Ihre Daten?
     text: |-
-      Falls Du Informationen über uns und unsere Leistungen wünscht oder mit uns aus sonstigem Grund Kontakt aufnehmen möchten, kannst Du uns jederzeit per E-Mail oder telefonisch kontaktieren. Wir verarbeiten die von Dir mitgeteilten Informationen dann, um Dein Anliegen zu bearbeiten und mir Dir zu kommunizieren. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO oder, falls wir bereits in einem Vertragsverhältnis mit Dir stehen oder die Kontaktaufnahme der Anbahnung eines solches Vertragsverhältnisses dient, Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+      Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um
+      Daten handeln, die Sie in ein Kontaktformular eingeben.
 
-      Du kannst der weiteren Verarbeitung deiner Daten jederzeit widersprechen, wenn Du diese nicht mehr wünscht (siehe Ziffer 9). Die Daten, die wir im Zusammenhang mit Deiner Kontaktanfrage erheben, werden gelöscht, sobald Dein Anliegen vollständig und abschließend bearbeitet ist und keine weitere Kommunikation mit Dir erforderlich oder von Dir gewünscht ist.
+      Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere ITSysteme
+      erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
+      des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
     styles:
       self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Wofür nutzen wir Ihre Daten?
+    text: |-
+      Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere
+      Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Welche Rechte haben Sie bezüglich Ihrer Daten?
+    text: |-
+      Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer
+      gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder
+      Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
+      können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter
+      bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+      Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Analyse-Tools und Tools von Drittanbietern
+    text: |-
+      Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor
+      allem mit sogenannten Analyseprogrammen.
+
+      Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in der folgenden
+      Datenschutzerklärung.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    title: 2. Hosting
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Externes Hosting
+    text: |-
+      Unsere Website wird von Netlify gehostet. Wenn Sie eine unserer Webseiten aufrufen, baut Ihr Browser daher eine Verbindung zu einem Server von Netlify, Inc., 610 22nd Street, Suite 315, San Francisco, CA 94107, USA auf. Dieser speichert dabei einige Informationen über die Verbindung in einer sogenannten Logdatei. Wir haben keinen Zugriff auf diese Logdateien. Mehr Informationen dazu, wie Netlify Ihre Daten verarbeitet, können Sie der Datenschutzerklärung von Netlify entnehmen (https://www.netlify.com/privacy/). Netlify erhebt folgende personenbezogene Daten, die technisch erforderlich sind, um Ihnen die Anzeige der Webseite zu ermöglichen und die Stabilität und Sicherheit zu gewährleisten: IP-Adresse, Datum und Uhrzeit der Anfrage, Übertragene Datenmenge, Zugriffsstatus (HTTP-Status) und Websites, von denen das System des Nutzers auf unsere Internetseite gelangt (Referrer URL). Diese Daten werden von Netlify für 30 Tage gespeichert. Weitere Details dazu finden Sie der Verpflichtung von Netlify zum Schutz Ihrer Daten (https://www.netlify.com/gdpr-ccpa/).
+
+      Die Speicherung dieser Daten in Logfiles dient der Sicherstellung der Funktionsfähigkeit und zur Optimierung der Webseite sowie zur Sicherstellung der Sicherheit der informationstechnischen Systeme. In den vorstehenden Zwecken liegt unser berechtigtes Interesse an der Datenverarbeitung. Rechtsgrundlage für die Erhebung und die vorübergehende Speicherung der vorgenannten Daten und der Logfiles ist Art. 6 Abs. 1 S. 1 lit. f) DSGVO.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    title: 3. Allgemeine Hinweise und Pflichtinformationen
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Datenschutz
+    text: |-
+      Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+
+      Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben.
+      Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende
+      Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie
+      und zu welchem Zweck das geschieht.
+
+      Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail)
+      Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+      möglich.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Hinweis zur verantwortlichen Stelle
+    text: |-
+      Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+
+      René Hermes<br>
+      Südstraße 268<br>
+      49767 Twist
+
+      Telefon: +49 5935 7054977<br>
+      E-Mail: wohngruppehermeshof@gmail.com
+
+      Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
+      die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.)
+      entscheidet.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Speicherdauer
+    text: |-
+      Soweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website
+    text: |-
+      Sofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf
+      Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien
+      nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung
+      personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art.
+      49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in
+      Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich
+      auf Grundlage von § 25 Abs. 1 TTDSG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur
+      Vertragserfüllung oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, verarbeiten wir Ihre
+      Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese
+      zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO.
+      Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f
+      DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden
+      Absätzen dieser Datenschutzerklärung informiert.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)
+    text: |-
+      WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO
+      ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN
+      SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN
+      WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES
+      PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT,
+      ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN,
+      WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES
+      SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG
+      NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE
+      VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON
+      RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).
+      WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN,
+      SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE
+      BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG
+      EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN
+      VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN
+      ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH
+      NACH ART. 21 ABS. 2 DSGVO).
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Beschwerderecht bei der zuständigen Aufsichtsbehörde
+    text: |-
+      Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer
+      Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes
+      oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger
+      verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Recht auf Datenübertragbarkeit
+    text: |-
+      Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags
+      automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format
+      aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen
+      verlangen, erfolgt dies nur, soweit es technisch machbar ist.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Auskunft, Berichtigung und Löschung
+    text: |-
+      Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche
+      Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den
+      Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie
+      zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Recht auf Einschränkung der Verarbeitung
+    text: |-
+      Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+      Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in
+      folgenden Fällen:
+
+      - Wenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir
+      in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die
+      Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+      - Wenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie
+      statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+      - Wenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung,
+      Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der
+      Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+      - Wenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen
+      Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen
+      überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
+      Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von
+      ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder
+      Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder
+      juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder
+      eines Mitgliedstaats verarbeitet werden.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: SSL- bzw. TLS-Verschlüsselung
+    text: |-
+      Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum
+      Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLSVerschlüsselung.
+      Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von
+      „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
+      Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht
+      von Dritten mitgelesen werden.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    title: 4. Datenerfassung auf dieser Website
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Cookies
+    text: |-
+      Unsere Internetseiten verwenden so genannte „Cookies“. Cookies sind kleine Datenpakete und richten auf
+      Ihrem Endgerät keinen Schaden an. Sie werden entweder vorübergehend für die Dauer einer Sitzung
+      (Session-Cookies) oder dauerhaft (permanente Cookies) auf Ihrem Endgerät gespeichert. Session-Cookies
+      werden nach Ende Ihres Besuchs automatisch gelöscht. Permanente Cookies bleiben auf Ihrem Endgerät
+      gespeichert, bis Sie diese selbst löschen oder eine automatische Löschung durch Ihren Webbrowser erfolgt.
+
+      Cookies können von uns (First-Party-Cookies) oder von Drittunternehmen stammen (sog. Third-Party-
+      Cookies). Third-Party-Cookies ermöglichen die Einbindung bestimmter Dienstleistungen von
+      Drittunternehmen innerhalb von Webseiten (z. B. Cookies zur Abwicklung von Zahlungsdienstleistungen).
+
+      Cookies haben verschiedene Funktionen. Zahlreiche Cookies sind technisch notwendig, da bestimmte
+      Webseitenfunktionen ohne diese nicht funktionieren würden (z. B. die Warenkorbfunktion oder die Anzeige
+      von Videos). Andere Cookies können zur Auswertung des Nutzerverhaltens oder zu Werbezwecken
+      verwendet werden.
+
+      Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs, zur Bereitstellung
+      bestimmter, von Ihnen erwünschter Funktionen (z. B. für die Warenkorbfunktion) oder zur Optimierung der
+      Website (z. B. Cookies zur Messung des Webpublikums) erforderlich sind (notwendige Cookies), werden auf
+      Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert, sofern keine andere Rechtsgrundlage angegeben wird.
+      Der Websitebetreiber hat ein berechtigtes Interesse an der Speicherung von notwendigen Cookies zur
+      technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Sofern eine Einwilligung zur
+      Speicherung von Cookies und vergleichbaren Wiedererkennungstechnologien abgefragt wurde, erfolgt die
+      Verarbeitung ausschließlich auf Grundlage dieser Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1
+      TTDSG); die Einwilligung ist jederzeit widerrufbar.
+
+      Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und
+      Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen
+      sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der
+      Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
+
+      Welche Cookies und Dienste auf dieser Website eingesetzt werden, können Sie dieser
+      Datenschutzerklärung entnehmen.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Kontaktformular
+    text: |-
+      Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem
+      Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage
+      und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre
+      Einwilligung weiter.
+
+      Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit
+      der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen
+      erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der
+      effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer
+      Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit
+      widerrufbar.
+
+      Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung
+      auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt
+      (z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen –
+      insbesondere Aufbewahrungsfristen – bleiben unberührt.
+    styles:
+      self:
+        padding:
+          - pt-8
+          - pb-0
+          - pl-16
+          - pr-16
+        width: narrow
+  - type: TextSection
+    colors: colors-a
+    subtitle: Anfrage per E-Mail, Telefon oder Telefax
+    text: |-
+      Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus
+      hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens
+      bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+
+      Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit
+      der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen
+      erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der
+      effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer
+      Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit
+      widerrufbar.
+
+      Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung
+      auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt
+      (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen –
+      insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+    styles:
+      self:
+        width: narrow
 ---

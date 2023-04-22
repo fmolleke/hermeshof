@@ -12,20 +12,19 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    subtitle: Angaben gemäß § 5 TMG
     text: |-
-      Hermes Hof GmbH<br>
-      Am Stadtforst 47<br>
-      49716 Meppen<br>
+      HermesHof Verwaltungs-GmbH<br>
+      Südstraße 268<br>
+      49767 Twist<br>
 
-      E-Mail: info@hermeshof.com<br>
-      Telefon: +49123123123<br>
-      Webseite: www.hermeshof.com<br>
+      E-Mail: wohngruppehermeshof@gmail.com<br>
+      Telefon: +49 5935 7054977<br>
 
-      Registergericht: Lingen<br>
-      Registernummer: HRB 123123<br>
-      Vertretungsberechtigter Geschäftsführer: Herr Rene Hermes<br>
-      Ust.ID: DE1231231
+      Registergericht: Amtsgericht Osnabrück<br>
+      Registernummer: HRB 217922<br>
+      Geschäftsführer: René Hermes und Manuela Robben<br>
+
+      HermesHof GmbH & Co. KG: HRA 208224
     styles:
       self:
         height: auto
@@ -54,9 +53,40 @@ sections:
   - type: TextSection
     elementId: ''
     colors: colors-a
-    subtitle: Umsetzung
+    subtitle: Informationen zur Online-Streitbeilegung
     text: |-
-      Florian Molleker
+      Die EU-Kommission hat eine Internetplattform zur Online-Beilegung von Streitigkeiten (sog. "OS-Plattform") geschaffen. Die OS-Plattform dient als Anlaufstelle zur außergerichtlichen Beilegung von Streitigkeiten, die aus Online-Dienstleistungsverträgen erwachsen. Die OS-Plattform erreichen Sie https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage.
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-4
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      text:
+        textAlign: left
+  - type: TextSection
+    elementId: ''
+    colors: colors-a
+    subtitle: Außergerichtliche Streitschlichtung
+    text: |-
+      Die für uns zuständige Verbraucherschlichtungsstelle ist die Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V. Straßburger Str. 8, 77694 Kehl (Internet: www.verbraucher-schlichter.de). Die HermesHof Verwaltungs-GmbH nimmt nicht am Ver­brau­cher­schlich­tungs­ver­fah­ren nach dem Ver­brau­cher­streit­bei­le­gungs­gesetz teil.
     styles:
       self:
         height: auto
@@ -88,37 +118,6 @@ sections:
     subtitle: Haftungsausschluss / Haftung für Inhalte
     text: |-
       Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-4
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    subtitle: Verwendung von Cookies
-    text: |-
-      Um den Besuch meiner Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermöglichen, verwende ich auf verschiedenen Seiten sogenannte Cookies. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endgerät gespeichert werden. Einige der von mir verwendeten Cookies werden nach Ende der Browser-Sitzung, also nach Schließen Ihres Browsers, wieder gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen es mir, Ihren Browser beim nächsten Besuch wiederzuerkennen (persistente Cookies). Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und einzeln über deren Annahme entscheiden oder die Annahme von Cookies für bestimmte Fälle oder generell ausschließen. Bei der Nichtannahme von Cookies kann die Funktionalität meiner Website eingeschränkt sein.
     styles:
       self:
         height: auto

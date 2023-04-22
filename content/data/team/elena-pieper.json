@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Elena",
+    "lastName": "Pieper",
+    "role": "Pädagogische Mitarbeiter*innen",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/Elena-Pieper.jpg",
+        "altText": "Elena Pieper"
+    }
+}

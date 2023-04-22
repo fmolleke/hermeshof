@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Anneliese",
+    "lastName": "Wolken",
+    "role": "Hauswirtschaftskraft",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/Anneliese-Wolken.jpg",
+        "altText": "Anneliese Wolken"
+    }
+}

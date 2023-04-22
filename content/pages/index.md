@@ -6,13 +6,12 @@ sections:
     colors: colors-a
     media:
       type: ImageBlock
-      # url: /images/home.jpg
+      url: /bilder/home.jpg
       altText: Kinder
-      borderRadius: unset
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
           - mt-0
           - mb-0
@@ -20,10 +19,10 @@ sections:
           - mr-0
         padding:
           - pt-0
-          - pb-4
+          - pb-12
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
     type: HeroSection
   - elementId: ''
     colors: colors-a

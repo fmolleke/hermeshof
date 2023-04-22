@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Lea",
+    "lastName": "Wilmes",
+    "role": "Pädagogische Mitarbeiter*innen",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/Lea-Wilmes.jpg",
+        "altText": "Lea Wilmes"
+    }
+}

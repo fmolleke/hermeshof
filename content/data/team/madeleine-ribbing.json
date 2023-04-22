@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Madeleine",
+    "lastName": "Ribbing",
+    "role": "Pädagogische Mitarbeiter*innen",
+    "bio": "",
+    "mail": "",
+    "mobile": "",
+    "telephone": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/blank.png",
+        "altText": "Madeleine Ribbing"
+    }
+}

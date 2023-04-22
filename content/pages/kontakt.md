@@ -43,7 +43,6 @@ sections:
     colors: colors-h
     backgroundSize: full
     title: Kontakt
-    #text: We look forward to hearing from you.
     form:
       type: FormBlock
       variant: variant-a
@@ -52,34 +51,34 @@ sections:
       action: /
       fields:
         - type: TextFormControl
-          name: firma
+          name: company
           label: Firma *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: full
         - type: TextFormControl
-          name: vorname
+          name: firstname
           label: Vorname *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: 1/2
         - type: TextFormControl
-          name: nachname
+          name: lastname
           label: Nachname *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: 1/2
         - type: EmailFormControl
           name: email
           label: E-Mail *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: 1/2
         - type: TextFormControl
-          name: telefon
+          name: telephone
           label: Telefon *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: 1/2
         - type: TextareaFormControl
-          name: nachricht
+          name: message
           label: Nachricht *
-          # isRequired: 'true'
+          isRequired: 'true'
           width: full
       submitLabel: Nachricht senden
     media: null
@@ -102,6 +101,4 @@ sections:
         flexDirection: row
       title:
         textAlign: left
-      #text:
-      #  textAlign: left
 ---
