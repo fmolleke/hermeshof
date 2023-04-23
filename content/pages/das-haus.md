@@ -7,8 +7,11 @@ sections:
     colors: colors-a
     media:
       type: ImageBlock
-      url: /images/haus.jpg
-      altText: Das Haus
+      url: /bilder/haus_vorne.jpg
+      altText: Haus vorne
+      styles:
+        self:
+          width: '100%'
     styles:
       self:
         height: auto
@@ -28,12 +31,6 @@ sections:
         flexDirection: col
       title:
         textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
     type: HeroSection
   - elementId: ''
     colors: colors-a
@@ -42,8 +39,8 @@ sections:
       Die Kinder- und Jugendhilfe HermesHof GmbH & Co. KG befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name HermesHof GmbH & Co. KG  findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen. Auch die Kleintierhaltung findet auf dem Außengelände des HermesHofes Berücksichtigung (Hühner/Katzen).
     media:
       type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero section image
+      url: /bilder/pflanze.jpg
+      altText: HermesHof Pflanze
     styles:
       self:
         height: auto
@@ -72,13 +69,9 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: Die Umgebung
+    title: Umgebung
     text: >
       Durch die gute Infrastruktur (Autobahnanbindung A31) ist die Wohngruppe leicht zu erreichen. Eine Haltestelle des öffentlichen Nahverkehrs gibt es in unmittelbarer Nähe des Wohnhauses (150 m). Allgemeinbildende Schulen befinden sich im drei Kilometer entfernten Zentrum von Twist und sind mit dem Bus erreichbar. Darüber hinaus bietet der Ort ein umfangreiches Angebot des Einzelhandels und der medizinisch/therapeutischen Grundversorgung (Allgemeinmedizin, Zahnärzte, Ergotherapie, Logopädie, Physiotherapie, Reittherapie).  Weitere Fachärzte und Therapeuten sind im 15 Kilometer entfernten Meppen zu erreichen. Für eine gute organisatorische Versorgung steht der Einrichtung ein Fuhrpark (Transporter/Kleinwagen) zur Verfügung.  Termine des alltäglichen Lebens werden somit durch die Wohngruppe gewährleistet.  Im örtlichen Sportverein können Angebote wie Fußball, Tennis, Leichtathletik, Schwimmen, Handball und  andere Sportarten genutzt werden.
-    media:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero section image
     styles:
       self:
         height: auto
@@ -98,12 +91,8 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
-      subtitle:
-        textAlign: left
       text:
         textAlign: left
-      actions:
-        justifyContent: flex-start
     type: FeatureHighlightSection
   - type: TextSection
     elementId: ''
@@ -137,19 +126,17 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Regelbereich Erdgeschoss
-    text: >
+    text: |-
       Das Erdgeschoss ist ein größerer Autonomie Bereich für Bewohner*innen und teilt sich in folgende Räumlichkeiten auf:<br>
 
-      <ul>
-        <li>3 Schlafzimmer </li>
-        <li>Badezimmer</li>
-        <li>Teeküche/Gemeinschafts- und Aufenthaltsraum</li>
-      </ul>
+      - 3 Schlafzimmer 
+      - Badezimmer
+      - Teeküche/Gemeinschafts- und Aufenthaltsraum
 
       Die Fläche des Regelbereiches im Erdgeschoss beträgt ca. 75,20 qm.
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /bilder/erdgeschoss_1.jpg
       altText: Hero section image
     styles:
       self:
@@ -183,17 +170,15 @@ sections:
     text: |-
       Das Obergeschoss des Hauses bietet Platz für 7 Kinder und Jugendliche. Das Obergeschoss teilt sich in folgende Räumlichkeiten auf:
 
-      <ul>
-        <li>5 Schlafzimmer mit 7 möglichen Plätzen</li>
-        <li>Mitarbeiterschlafzimmer</li>
-        <li>2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)</li>
-        <li>Küchen- und Wohnlandschaft</li>
-        <li>Dachterrasse</li>
-        <li>Hauswirtschaftsraum</li>
-      </ul>
+      - 5 Schlafzimmer mit 7 möglichen Plätzen
+      - Mitarbeiterschlafzimmer
+      - 2x Badezimmer (1 zusätzliches Badezimmer ist über die Treppe ins Erdgeschoss zu erreichen)
+      - Küchen- und Wohnlandschaft
+      - Dachterrasse
+      - Hauswirtschaftsraum
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /bilder/obergeschoss_kueche.jpg
       altText: Hero section image
     styles:
       self:
@@ -228,7 +213,7 @@ sections:
       Das Außengelände verfügt über eine überdachte Terrasse, welches genutzt werden kann für Grillabende, Tischtennis, Tischkicker und viele andere Aktivitäten. Darüber hinaus befindet sich auf dem Außengelände ein Werkzeug-, Garten – und Fahrradschuppen, 2 Garagen, 1 Gartenholzhaus und genügend Rasenfläche für sportliche Aktivitäten.  Für die Fachkräfte, sowie externe Personen stehen ausreichend Parkplätze zur Verfügung.
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /bilder/haus_außen.jpg
       altText: Hero section image
     styles:
       self:
@@ -263,7 +248,7 @@ sections:
       Der Besprechungs- und Therapieraum befindet sich im vorderen Wohntrakt.  Dieser wird für Hilfeplangespräche, den systemischen Beratungssettings und der Dienstbesprechung genutzt. Für den täglichen Verwaltungsbedarf (Tagesdokumentation, Terminvereinbarungen usw.) steht den pädagogischen Mitarbeiter*innen im Obergeschoss des Hauses ein Personalbüro zur Verfügung.
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /bilder/verwaltung_besprechungsraum.jpg
       altText: Hero section image
     styles:
       self:
@@ -329,7 +314,7 @@ sections:
       Für das pädagogische Personal ist ein Zugang vom Haupthaus in die Einliegerwohnung über einen Seiteneingang möglich.  Die Einliegerwohnung verfügt über ca. 65 qm.
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /bilder/verselbststaendigung_3.jpg
       altText: Hero section image
     styles:
       self:
@@ -359,17 +344,41 @@ sections:
     title: Weitere Bilder
     images:
       - type: ImageBlock
-        url: /images/carla.jpg
-        altText: Image one
+        url: /bilder/deko.jpg
+        altText: Deko
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-2.jpeg'
-        altText: Image two
+        url: /bilder/obergeschoss_kuechentisch.jpg
+        altText: Obergeschoss Küchentisch
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
-        altText: Image three
+        url: /bilder/kickern.jpg
+        altText: Kickern
       - type: ImageBlock
-        url: 'https://assets.stackbit.com/components/images/default/image-3.jpeg'
-        altText: Image three
+        url: /bilder/obergeschoss_flur.jpg
+        altText: Obergeschoss Flur
+      - type: ImageBlock
+        url: /bilder/obergeschoss_flur2.jpg
+        altText: Obergeschoss Flur 2
+      - type: ImageBlock
+        url: /bilder/obergeschoss_schlafzimmer.jpg
+        altText: Obergeschoss Schlafzimmer
+      - type: ImageBlock
+        url: /bilder/obergeschoss.jpg
+        altText: Obergeschoss Aufenthaltsraum
+      - type: ImageBlock
+        url: /bilder/tischtennis.jpg
+        altText: Tischtennis
+      - type: ImageBlock
+        url: /bilder/treppenhaus.jpg
+        altText: Treppenhaus
+      - type: ImageBlock
+        url: /bilder/verselbststaendigung_2.jpg
+        altText: Schlafzimmer
+      - type: ImageBlock
+        url: /bilder/verwaltung_flur.jpg
+        altText: Verwaltung Flur
+      - type: ImageBlock
+        url: /bilder/pflanze2.jpg
+        altText: Pflanze 2
     spacing: 1
     columns: 3
     aspectRatio: '1:1'

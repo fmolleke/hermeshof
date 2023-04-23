@@ -8,6 +8,9 @@ sections:
       type: ImageBlock
       url: /bilder/home.jpg
       altText: Kinder
+      styles:
+        self:
+          width: '100%'
     styles:
       self:
         height: auto

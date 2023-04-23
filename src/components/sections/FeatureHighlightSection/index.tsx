@@ -88,7 +88,7 @@ export default function FeatureHighlightSection(props) {
                                 </div>
                             </div>
                             {props.media && (
-                                <div className="flex-1 w-full">
+                                <div className="flex flex-1 w-full justify-center">
                                     {featureHighlightMedia(props.media)}
                                 </div>
                             )}
