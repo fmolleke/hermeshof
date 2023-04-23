@@ -371,9 +371,6 @@ sections:
         url: /bilder/treppenhaus.jpg
         altText: Treppenhaus
       - type: ImageBlock
-        url: /bilder/verselbststaendigung_2.jpg
-        altText: Schlafzimmer
-      - type: ImageBlock
         url: /bilder/verwaltung_flur.jpg
         altText: Verwaltung Flur
       - type: ImageBlock

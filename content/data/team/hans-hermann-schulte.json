@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "firstName": "Sammy",
+    "firstName": "Hans Hermann",
     "lastName": "Schulte",
     "role": "Hausmeister",
     "bio": "",
@@ -10,6 +10,6 @@
     "image": {
         "type": "ImageBlock",
         "url": "/bilder/mitarbeiter/blank.png",
-        "altText": "Sammy Schulte"
+        "altText": "Hans Hermann Schulte"
     }
 }

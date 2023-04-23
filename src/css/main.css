@@ -421,3 +421,15 @@
         }
     }
 }
+
+.border-yellow {
+    border-color: #f19922;
+}
+
+.border-pink {
+    border-color: #dc1a60;
+}
+
+.border-blue {
+    border-color: #0c4e88;
+}

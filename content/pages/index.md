@@ -69,7 +69,7 @@ sections:
         styles:
           self:
             textAlign: left
-            borderColor: border-dark
+            borderColor: border-blue
             borderWidth: 1
             borderStyle: solid
             padding:
@@ -102,7 +102,7 @@ sections:
         styles:
           self:
             textAlign: left
-            borderColor: border-dark
+            borderColor: border-pink
             borderWidth: 1
             borderStyle: solid
             padding:
@@ -119,56 +119,14 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
-      # - type: FeaturedItem
-      #   title: Kontakt
-      #   text: >
-      #     Sie möchten uns kontaktieren? Hier finden Sie alle Informationen über unsere Kontaktinformationen
-      #   # featuredImage:
-      #   #   url: /images/focused.svg
-      #   #   altText: Kontakt
-      #   #   caption: Kontakt
-      #   #   elementId: ''
-      #   #   styles:
-      #   #     self:
-      #   #       opacity: 100
-      #   #   type: ImageBlock
-      #   styles:
-      #     self:
-      #       textAlign: left
-      #       borderColor: border-dark
-      #       borderWidth: 1
-      #       borderStyle: solid
-      #       padding:
-      #         - pt-4
-      #         - pl-4
-      #         - pb-6
-      #         - pr-4
-      #   actions:
-      #     - type: Link
-      #       label: Mehr Informationen
-      #       altText: ''
-      #       url: /kontakt
-      #       showIcon: true
-      #       icon: arrowRight
-      #       iconPosition: right
-      #       elementId: ''
       - type: FeaturedItem
         title: Wir suchen Sie!
         text: >
-          Sie sind auf der Suche nach einem neuen Job und liebes es, mit Kindern zu arbeiten? Dann bewerben Sie sich bei uns!
-        # featuredImage:
-        #   url: /images/focused.svg
-        #   altText: Kontakt
-        #   caption: Kontakt
-        #   elementId: ''
-        #   styles:
-        #     self:
-        #       opacity: 100
-        #   type: ImageBlock
+          Sie sind auf der Suche nach einem neuen Job und lieben es, mit Kindern zu arbeiten? Dann bewerben Sie sich bei uns!
         styles:
           self:
             textAlign: left
-            borderColor: border-dark
+            borderColor: border-yellow
             borderWidth: 1
             borderStyle: solid
             padding:

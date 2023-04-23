@@ -93,7 +93,7 @@ sections:
     people:
       - content/data/team/annelise-wolken.json
       - content/data/team/magdalena-hermes.json
-      - content/data/team/sammy-schulte.json
+      - content/data/team/hans-hermann-schulte.json
     styles:
       self:
         height: auto
