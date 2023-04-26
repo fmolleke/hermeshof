@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "firstName": "Hans Hermann",
+    "firstName": "Hans-Hermann",
     "lastName": "Schulte",
     "role": "Hausmeister",
     "bio": "",
@@ -9,7 +9,7 @@
     "telephone": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/bilder/mitarbeiter/blank.png",
-        "altText": "Hans Hermann Schulte"
+        "url": "/bilder/mitarbeiter/hans-hermann-schulte.jpg",
+        "altText": "Hans-Hermann Schulte"
     }
 }
