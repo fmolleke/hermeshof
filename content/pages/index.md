@@ -1,5 +1,5 @@
 ---
-title: HermesHof | Home
+title: Home | HermesHof
 layout: PageLayout
 sections:
   - elementId: ''
@@ -175,7 +175,7 @@ sections:
     colors: colors-a
     variant: variant-b
     title: >-
-      AKTUELLES
+      Aktuelles
     actions:
       - type: Link
         label: Alle Posts ansehen
@@ -183,8 +183,8 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-one.md
-      - content/pages/blog/post-two.md
+      - content/pages/blog/1_lebenspraktische_faehigkeiten_erlernen.md
+      - content/pages/blog/2_tiergestuetzte_paedagogik.md
     styles:
       self:
         height: auto
@@ -203,7 +203,6 @@ sections:
         borderRadius: none
         borderWidth: 0
         borderStyle: none
-        borderColor: border-dark
       title:
         textAlign: left
       subtitle:

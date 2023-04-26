@@ -61,7 +61,7 @@ function PostAttribution({ post }) {
         <div className="mt-6 text-lg">
             {author && (
                 <>
-                    {'By '}
+                    {'Von '}
                     {author}
                 </>
             )}

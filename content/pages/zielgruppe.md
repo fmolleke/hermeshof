@@ -1,5 +1,5 @@
 ---
-title: HermesHof | Zielgruppe
+title: Zielgruppe | HermesHof
 layout: PageLayout
 sections:
   - type: TextSection

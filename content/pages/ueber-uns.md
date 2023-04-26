@@ -1,5 +1,5 @@
 ---
-title: HermesHof | Über uns
+title: Über uns | HermesHof
 layout: PageLayout
 sections:
   - type: HeroSection

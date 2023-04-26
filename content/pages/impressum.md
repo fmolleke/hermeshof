@@ -1,5 +1,5 @@
 ---
-title: HermesHof | Impressum
+title: Impressum | HermesHof
 layout: PageLayout
 sections:
   - type: TextSection
