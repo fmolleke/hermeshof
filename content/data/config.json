@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/logo.svg",
+    "favicon": "/bilder/logo.svg",
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
@@ -75,7 +75,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo.svg"
+            "url": "/bilder/logo.svg"
         }
     },
     "footer": {
@@ -91,7 +91,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/logo_white_text.svg"
+            "url": "/bilder/logo_white_text.svg"
         },
         "title": "",
         "contacts": {

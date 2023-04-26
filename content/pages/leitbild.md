@@ -43,7 +43,7 @@ sections:
         title: US-amerikanische Psychotherapeutin
         image:
           type: ImageBlock
-          url: /images/virginia-satir.jpg
+          url: /bilder/virginia-satir.jpg
           altText: Foto von Virginia Satir
     styles:
       self:
