@@ -16,18 +16,18 @@ sections:
             text: |-
               Sie sind richtig bei uns, wenn Sie...
 
-              - motiviert und engagiert sind, unbegleitete minderjährige Geflüchtete aus verschiedenen Herkunftsländern ab einem Alter von 13 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen.	
-              - Ihre kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchten.
-              - teamfähig und zuverlässig sind, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchten.
-
+              - motiviert und engagiert sind, unbegleitete minderjährige Geflüchtete aus verschiedenen Herkunftsländern ab einem Alter von 13 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen.
+              - Ihre kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchten
+              - teamfähig und zuverlässig sind, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchten
 
 
               Sie erwartet...
 
-              - die Möglichkeit in einem innovativen, im Jahr 2022 gegründetem Team, den pädagogischen Alltag der Kinder, Jugendlichen und jungen Volljährigen mitzugestalten.
+              - die Möglichkeit in einem innovativen, im Jahr 2022 gegründetem Team, den pädagogischen Alltag der Kinder, Jugendlichen und jungen Volljährigen mitzugestalten
               - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD)
-              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung.
-              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken.
+              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung
+              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken
+              - Betriebliche Altersvorsorge
 
     styles:
       self:

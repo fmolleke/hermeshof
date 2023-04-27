@@ -1,7 +1,7 @@
 ---
 title: Tiergestützte Pädagogik
 layout: PostLayout
-date: '2023-04-26'
+date: '2023-02-25'
 author: content/data/team/rene-hermes.json
 featuredImage:
   type: ImageBlock

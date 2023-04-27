@@ -1,7 +1,7 @@
 ---
 title: Lebenspraktische Fähigkeiten erlernen
 layout: PostLayout
-date: '2023-04-26'
+date: '2023-03-06'
 author: content/data/team/rene-hermes.json
 featuredImage:
   type: ImageBlock

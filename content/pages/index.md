@@ -30,7 +30,7 @@ sections:
   - elementId: ''
     colors: colors-a
     subtitle: >
-      Die Kinder- und Jugendhilfe „Hermeshof GmbH & Co. KG & Co. KG“ bietet Platz für 12 unbegleitete, minderjährige Geflüchtete aus unterschiedlichen Herkunftsländern. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41, 42 SGB VIII.
+      Die Kinder- und Jugendhilfe „Hermeshof GmbH & Co. KG“ bietet Platz für 12 unbegleitete, minderjährige Geflüchtete aus unterschiedlichen Herkunftsländern. Wir bieten den Bewohner*innen familienähnliche Strukturen und arbeiten mit dem systemischen Handlungsansatz auf Grundlage des § 27 i. V. m. §§ 34, 41, 42 SGB VIII.
     styles:
       self:
         height: auto
@@ -122,7 +122,7 @@ sections:
       - type: FeaturedItem
         title: Wir suchen Sie!
         text: >
-          Sie sind auf der Suche nach einem neuen Job und lieben es, mit Kindern zu arbeiten? Dann bewerben Sie sich bei uns!
+          Sie sind auf der Suche nach einem neuen Job und lieben es, mit Kindern, Jugendlichen und jungen Volljährigen zu arbeiten? Dann bewerben Sie sich bei uns!
         styles:
           self:
             textAlign: left
@@ -183,8 +183,9 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/1_lebenspraktische_faehigkeiten_erlernen.md
+      # - content/pages/blog/1_lebenspraktische_faehigkeiten_erlernen.md
       - content/pages/blog/2_tiergestuetzte_paedagogik.md
+      - content/pages/blog/3_projekt_sonnenliege.md
     styles:
       self:
         height: auto

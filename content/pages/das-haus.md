@@ -36,7 +36,7 @@ sections:
     colors: colors-a
     title: Unsere Geschichte
     text: >
-      Die Kinder- und Jugendhilfe HermesHof GmbH & Co. KG befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name HermesHof GmbH & Co. KG  findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen. Auch die Kleintierhaltung findet auf dem Außengelände des HermesHofes Berücksichtigung (Hühner/Katzen).
+      Die Kinder- und Jugendhilfe HermesHof GmbH & Co. KG befindet sich im ländlichen Ortsteil Twist/Schöninghsdorf. Der Name HermesHof GmbH & Co. KG  findet seinen Ursprung im ehemaligen Gasthof der Siedlung Schöninghsdorf Süd. Dieser wurde  im Zeitraum von 1966-1991 von einer ortsansässigen Familie betrieben, später durch Privatnutzung und Vermietung weitergenutzt. Gesellschaftlich gesehen, war der Gasthof ein Ort der Begegnung und der Geselligkeit. Darüber hinaus spiegelt das äußere Erscheinungsbild mit seiner Grundstücksgröße von ca. 2200 qm den Charakter eines Hofes der Begegnung wieder. Die Gründer verfolgen die gleiche Philosophie und wollen den Ort, der sinnbildlich für Gastfreundschaft stand, erneut mit Leben füllen.
     media:
       type: ImageBlock
       url: /bilder/pflanze.jpg
@@ -210,7 +210,7 @@ sections:
     colors: colors-a
     title: Außengelände
     text: >
-      Das Außengelände verfügt über eine überdachte Terrasse, welches genutzt werden kann für Grillabende, Tischtennis, Tischkicker und viele andere Aktivitäten. Darüber hinaus befindet sich auf dem Außengelände ein Werkzeug-, Garten – und Fahrradschuppen, 2 Garagen, 1 Gartenholzhaus und genügend Rasenfläche für sportliche Aktivitäten.  Für die Fachkräfte, sowie externe Personen stehen ausreichend Parkplätze zur Verfügung.
+      Das Außengelände verfügt über eine überdachte Terrasse, welches genutzt werden kann für Grillabende, Tischtennis, Tischkicker und viele andere Aktivitäten. Darüber hinaus befindet sich auf dem Außengelände ein Werkzeug-, Garten – und Fahrradschuppen, 2 Garagen und genügend Rasenfläche für sportliche Aktivitäten.  Für die Fachkräfte, sowie externe Personen stehen ausreichend Parkplätze zur Verfügung.
     media:
       type: ImageBlock
       url: /bilder/haus_außen.jpg
