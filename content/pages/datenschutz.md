@@ -15,6 +15,7 @@ sections:
           - pr-16
       title:
         textAlign: center
+        fontSize: 5x-large
   - type: TextSection
     colors: colors-a
     title: 1. Datenschutz auf einen Blick

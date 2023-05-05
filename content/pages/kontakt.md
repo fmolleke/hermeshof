@@ -32,6 +32,7 @@ sections:
         borderColor: border-dark
       title:
         textAlign: center
+        fontSize: 5x-large
       subtitle:
         fontWeight: 400
         fontStyle: normal

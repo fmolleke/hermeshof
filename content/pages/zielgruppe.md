@@ -22,6 +22,7 @@ sections:
           - pr-4
       title:
         textAlign: center
+        fontSize: 5x-large
   - elementId: ''
     colors: colors-a
     text: |-

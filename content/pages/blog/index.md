@@ -19,4 +19,5 @@ postFeed:
 styles:
   title:
     textAlign: center
+    fontSize: 5x-large
 ---
