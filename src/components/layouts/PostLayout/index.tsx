@@ -7,12 +7,14 @@ import { getComponent } from '../../components-registry';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 import Link from '../../atoms/Link';
 
+require('dayjs/locale/de');
+
 export default function PostLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const sections = page.bottomSections || [];
-    const dateTimeAttr = dayjs(page.date).format('YYYY-MM-DD HH:mm:ss');
-    const formattedDate = dayjs(page.date).format('MMMM D, YYYY');
+    const dateTimeAttr = dayjs(page.date).locale('de').format('YYYY-MM-DD HH:mm:ss');
+    const formattedDate = dayjs(page.date).locale('de').format('MMMM D, YYYY');
 
     return (
         <BaseLayout page={page} site={site}>

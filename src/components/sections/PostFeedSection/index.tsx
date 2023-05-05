@@ -9,6 +9,8 @@ import ImageBlock from '../../molecules/ImageBlock';
 import ArrowRightIcon from '../../svgs/arrow-right';
 import getPageUrlPath from '../../../utils/get-page-url-path';
 
+require('dayjs/locale/de');
+
 export default function PostFeedSection(props) {
     const cssId = props.elementId || null;
     const colors = props.colors || 'colors-a';
@@ -273,8 +275,8 @@ function PostDate({ post, className = '' }) {
         return null;
     }
     const date = post.date;
-    const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
-    const formattedDate = dayjs(date).format('MMMM D, YYYY');
+    const dateTimeAttr = dayjs(date).locale('de').format('YYYY-MM-DD HH:mm:ss');
+    const formattedDate = dayjs(date).locale('de').format('MMMM D, YYYY');
     return (
         <div className={className ? className : null}>
             <time dateTime={dateTimeAttr} data-sb-field-path="date">
