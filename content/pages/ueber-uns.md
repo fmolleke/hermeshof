@@ -30,7 +30,7 @@ sections:
       title:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: justify
   - elementId: ''
     colors: colors-a
     media:

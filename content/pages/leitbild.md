@@ -32,7 +32,7 @@ sections:
       title:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: justify
   - elementId: ''
     colors: colors-h
     variant: variant-b
@@ -92,5 +92,5 @@ sections:
         borderStyle: none
         borderColor: border-dark
       text:
-        textAlign: left
+        textAlign: justify
 ---

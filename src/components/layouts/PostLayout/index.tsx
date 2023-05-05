@@ -29,7 +29,7 @@ export default function PostLayout(props) {
                             <PostAttribution post={page} />
                         </header>
                         {page.markdown_content && (
-                            <Markdown options={{ forceBlock: true }} className="sb-markdown max-w-screen-md mx-auto" data-sb-field-path="markdown_content">
+                            <Markdown options={{ forceBlock: true }} className="sb-markdown max-w-screen-md mx-auto text-justify" data-sb-field-path="markdown_content">
                                 {page.markdown_content}
                             </Markdown>
                         )}

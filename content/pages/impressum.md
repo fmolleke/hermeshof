@@ -49,7 +49,7 @@ sections:
         fontStyle: normal
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
   - type: TextSection
     elementId: ''
     colors: colors-a
@@ -80,7 +80,7 @@ sections:
         fontStyle: normal
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
   - type: TextSection
     elementId: ''
     colors: colors-a
@@ -111,7 +111,7 @@ sections:
         fontStyle: normal
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
   - type: TextSection
     elementId: ''
     colors: colors-a
@@ -148,5 +148,5 @@ sections:
         fontStyle: normal
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
 ---

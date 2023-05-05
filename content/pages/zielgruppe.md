@@ -55,7 +55,7 @@ sections:
         justifyContent: center
         flexDirection: row
       text:
-        textAlign: left
+        textAlign: justify
     type: FeatureHighlightSection
   - type: TextSection
     elementId: ''
@@ -98,5 +98,5 @@ sections:
         fontStyle: normal
         textAlign: center
       text:
-        textAlign: left
+        textAlign: justify
 ---

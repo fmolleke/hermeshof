@@ -63,7 +63,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
@@ -92,7 +92,7 @@ sections:
       title:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
     type: FeatureHighlightSection
   - type: TextSection
     elementId: ''
@@ -122,7 +122,7 @@ sections:
       title:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: justify
   - elementId: ''
     colors: colors-a
     title: Regelbereich Erdgeschoss
@@ -160,7 +160,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
@@ -202,7 +202,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
@@ -237,7 +237,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
@@ -272,7 +272,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
@@ -334,7 +334,7 @@ sections:
         justifyContent: center
         flexDirection: row
       text:
-        textAlign: left
+        textAlign: justify
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
