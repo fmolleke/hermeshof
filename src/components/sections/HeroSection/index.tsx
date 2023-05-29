@@ -16,6 +16,7 @@ export default function HeroSection(props) {
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
     const sectionFlexDirection = sectionStyles.flexDirection || 'row';
     const sectionAlignItems = sectionStyles.alignItems || 'center';
+    const mediaJustifyContent = props?.media?.styles?.self?.justifyContent || 'flex-start'
     return (
         <div
             id={cssId}
@@ -63,7 +64,7 @@ export default function HeroSection(props) {
                                 'flex-1',
                                 'w-full',
                                 'flex',
-                                mapStyles({ justifyContent: props.media.styles.self.justifyContent })
+                                mapStyles({ justifyContent: mediaJustifyContent })
                             )}>
                                 {heroMedia(props.media)}
                             </div>

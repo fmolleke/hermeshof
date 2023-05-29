@@ -84,6 +84,8 @@ sections:
           - pb-12
           - pl-4
           - pr-4
+      text:
+        textAlign: justify
   - elementId: ''
     colors: colors-red
     title: Mit dieser Einstellung solltest du dich lieber nicht bewerben
@@ -116,6 +118,8 @@ sections:
         flexDirection: row-reverse
       title:
         fontSize: xxx-large
+      text:
+        textAlign: justify
     type: HeroSection
   - colors: colors-a
     elementId: ''
