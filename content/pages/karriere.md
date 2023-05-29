@@ -45,7 +45,8 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
+        fontSize: 5x-large
       subtitle:
         textAlign: left
   - type: TextSection

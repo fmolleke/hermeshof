@@ -29,6 +29,7 @@ sections:
         borderColor: border-dark
       title:
         textAlign: center
+        fontSize: 5x-large
       text:
         textAlign: justify
   - elementId: ''

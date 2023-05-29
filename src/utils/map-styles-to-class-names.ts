@@ -6,7 +6,9 @@ const TAILWIND_MAP = {
         large: 'text-lg',
         'x-large': 'text-xl',
         'xx-large': 'text-2xl',
-        'xxx-large': 'text-3xl'
+        'xxx-large': 'text-3xl',
+        '4x-large': 'text-4xl',
+        '5x-large': 'text-5xl'
     },
     fontStyle: {
         normal: 'non-italic',
@@ -57,14 +59,14 @@ const TAILWIND_MAP = {
         double: 'border-double'
     },
     boxShadow: {
-        'none': 'shadow-none',
+        none: 'shadow-none',
         'x-small': 'shadow-sm',
         small: 'shadow',
         medium: 'shadow-md',
         large: 'shadow-lg',
         'x-large': 'shadow-xl',
         'xx-large': 'shadow-2xl',
-        'inner': 'shadow-inner'
+        inner: 'shadow-inner'
     },
     margin: function (value) {
         // for tailwind margins - ['twt0:16', 'twb0:16'], the value will be array ['mt-0', 'mb-4']

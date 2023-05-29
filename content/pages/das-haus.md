@@ -31,6 +31,7 @@ sections:
         flexDirection: col
       title:
         textAlign: center
+        fontSize: 5x-large
     type: HeroSection
   - elementId: ''
     colors: colors-a
@@ -60,6 +61,7 @@ sections:
         flexDirection: row
       title:
         textAlign: left
+        fontSize: 4x-large
       subtitle:
         textAlign: left
       text:
@@ -91,13 +93,15 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        fontSize: 4x-large
       text:
         textAlign: justify
     type: FeatureHighlightSection
   - type: TextSection
     elementId: ''
     colors: colors-a
-    title: Räumliches Angebot (Regelbereich)
+    title: Räumliches Angebot
+    subtitle: (Regelbereich)
     text: |-
       Die Platzzahl beschränkt sich im Regelbereich bei voller Auslastung auf 10 Plätze. Das pädagogische Angebot in Hinblick auf die Platzbelegung ist flexibel und richtet sich nach den Bedarfen der Kinder/Jugendlichen. Die räumlichen Gegebenheiten der stationären Nutzung gliedern sich wie folgt:
     styles:
@@ -120,9 +124,12 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: center
+        textAlign: left
+        fontSize: 4x-large
       text:
         textAlign: justify
+      subtitle:
+        textAlign: left
   - elementId: ''
     colors: colors-a
     title: Regelbereich Erdgeschoss
@@ -157,6 +164,7 @@ sections:
         flexDirection: row
       title:
         textAlign: left
+        fontSize: 4x-large
       subtitle:
         textAlign: left
       text:
@@ -199,6 +207,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        fontSize: 4x-large
       subtitle:
         textAlign: left
       text:
@@ -234,6 +243,7 @@ sections:
         flexDirection: row
       title:
         textAlign: left
+        fontSize: 4x-large
       subtitle:
         textAlign: left
       text:
@@ -269,6 +279,7 @@ sections:
         flexDirection: row-reverse
       title:
         textAlign: left
+        fontSize: 4x-large
       subtitle:
         textAlign: left
       text:
@@ -276,33 +287,10 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
-  - type: TextSection
-    elementId: ''
-    colors: colors-a
-    title: Räumliches Angebot (Verselbständigung)
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: center
   - elementId: ''
     colors: colors-a
+    title: Räumliches Angebot
+    subtitle: (Verselbständigung)
     text: |-
       Zur Verselbständigung wird dem/der Bewohner*in eine Einliegerwohnung zur Verfügung gestellt, die am Haupthaus der Wohngruppe (Regelgruppe) angegliedert ist. Die Einliegerwohnung hat einen separaten Zugang und ist ausgestattet mit:
 
@@ -333,10 +321,11 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-      text:
-        textAlign: justify
-      actions:
-        justifyContent: flex-start
+      title:
+        textAlign: left
+        fontSize: 4x-large
+      subtitle:
+        textAlign: left
     type: FeatureHighlightSection
   - type: MediaGallerySection
     colors: colors-a
@@ -398,7 +387,8 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: center
+        textAlign: left
+        fontSize: 4x-large
       subtitle:
-        textAlign: center
+        textAlign: left
 ---
