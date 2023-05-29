@@ -16,7 +16,6 @@ export default function HeroSection(props) {
     const sectionJustifyContent = sectionStyles.justifyContent || 'center';
     const sectionFlexDirection = sectionStyles.flexDirection || 'row';
     const sectionAlignItems = sectionStyles.alignItems || 'center';
-    console.log(props.media)
     return (
         <div
             id={cssId}
