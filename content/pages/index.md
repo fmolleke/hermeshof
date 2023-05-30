@@ -56,21 +56,12 @@ sections:
       - type: FeaturedItem
         title: Über uns
         text: >
-          Lernen Sie unser Team und unsere Geschichte kennen
-        # featuredImage:
-        #   url: /images/about-us.png
-        #   altText: Über uns
-        #   caption: Über uns
-        #   elementId: ''
-        #   styles:
-        #     self:
-        #       opacity: 100
-        #   type: ImageBlock
+          Lerne unser Team und unsere Geschichte kennen.
         styles:
           self:
             textAlign: left
             borderColor: border-blue
-            borderWidth: 1
+            borderWidth: 3
             borderStyle: solid
             padding:
               - pt-4
@@ -89,21 +80,12 @@ sections:
       - type: FeaturedItem
         title: Das Haus
         text: >
-          Finden Sie hier alle Informationen über unsere Wohngruppe, unser Haus und weitere Bilder
-        # featuredImage:
-        #   url: /images/smarter.svg
-        #   altText: Das Haus
-        #   caption: Das Haus
-        #   elementId: ''
-        #   styles:
-        #     self:
-        #       opacity: 100
-        #   type: ImageBlock
+          Hier findest du alle Informationen über unsere Wohngruppe.
         styles:
           self:
             textAlign: left
             borderColor: border-pink
-            borderWidth: 1
+            borderWidth: 3
             borderStyle: solid
             padding:
               - pt-4
@@ -120,14 +102,14 @@ sections:
             iconPosition: right
             elementId: ''
       - type: FeaturedItem
-        title: Wir suchen Sie!
+        title: Wir suchen dich!
         text: >
-          Sie sind auf der Suche nach einem neuen Job und lieben es, mit Kindern, Jugendlichen und jungen Volljährigen zu arbeiten? Dann bewerben Sie sich bei uns!
+          Du bist auf der Suche nach einem neuen Job und hast Spaß an der Arbeit mit Kindern, Jugendlichen und jungen Volljährigen? Dann bewirb dich bei uns!
         styles:
           self:
             textAlign: left
             borderColor: border-yellow
-            borderWidth: 1
+            borderWidth: 3
             borderStyle: solid
             padding:
               - pt-4

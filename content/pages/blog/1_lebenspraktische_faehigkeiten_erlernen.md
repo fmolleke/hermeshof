@@ -56,4 +56,4 @@ bottomSections:
     type: RecentPostsSection
 ---
 
-In der Wohngruppe werden die Jugendlichen auch an Lebenspraktische Tätigkeiten herangeführt. So auch der regelmäßige Einkauf mit einem vorgegebenen Budget. Hier werden von Jugendlichen mit den Betreuer eine Planung erstellt und dann für einen ganzen Tag für alle eingekauft und gekocht ohne das Budget zu überschreiten.
+In der Wohngruppe werden die Jugendlichen auch an lebenspraktische Fähigkeiten herangeführt. So auch der regelmäßige Einkauf mit einem vorgegebenen Budget. Die Jugendlichen erstellen regelmäßig mit ihren Betreuer\*innen eine Finanzplanung. Von diesem Budget wird Verpflegung für einen Tag eingekauft.
