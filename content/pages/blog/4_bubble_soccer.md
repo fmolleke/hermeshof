@@ -1,5 +1,5 @@
 ---
-title: Bubble Soccer Tunier
+title: Bubble Soccer Turnier
 layout: PostLayout
 date: '2023-07-01'
 author: content/data/team/rene-hermes.json
