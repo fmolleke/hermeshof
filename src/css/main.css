@@ -420,6 +420,31 @@
             @apply hover:bg-primary hover:text-light;
         }
     }
+    .colors-red {
+        @apply bg-red-600 text-on-primary;
+        .sb-input,
+        .sb-select,
+        .sb-textarea {
+            @apply text-on-primary placeholder-on-primary placeholder-opacity-75;
+        }
+        .sb-component-button-primary,
+        .sb-component-social-primary {
+            @apply bg-dark border-dark text-on-dark;
+        }
+        .sb-component-button-secondary,
+        .sb-component-social-secondary {
+            @apply border-on-primary text-on-primary;
+        }
+        .sb-component-badge {
+            @apply text-on-primary;
+        }
+        .sb-card {
+            @apply bg-light text-on-light;
+        }
+        .sb-component-item-hover {
+            @apply hover:bg-light hover:text-on-light;
+        }
+    }
 }
 
 .border-yellow {
