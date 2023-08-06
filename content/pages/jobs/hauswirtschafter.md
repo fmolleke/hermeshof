@@ -1,5 +1,5 @@
 ---
-title: Pädagogische Fachkraft (m/w/d) | HermesHof
+title: Hauswirtschafter*in (m/w/d) | HermesHof
 layout: PageLayout
 sections:
   - type: JobsSection
@@ -9,23 +9,20 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Pädagogische Fachkräfte (m/w/d) (Erzieher*innen, Heilerziehungspfleger*innen und Sozialpädagog*innen im Berufsanerkennungsjahr) in Voll- und Teilzeit.
+            title: Hauswirtschafter*in (mit einem Stundenumfang von max. 25 Std. in der Woche)
             location: Twist/Schöninghsdorf
             text: |-
               Du bist bei uns richtig, wenn du...
 
-              - motiviert und engagiert bist, Kindern und Jugendlichen ab einem Alter von 10 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen
-              - deine kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchtest
-              - teamfähig und zuverlässig bist, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchtest
+              - Freude am selbstständigen Arbeiten im häuslichen Umfeld, darunter das Kochen, Reinigen sowie wohnliche Gestalten der Räumlichkeiten hast.  
+              - Teamfähig und Freude am Umgang mit Kindern und Jugendlichen hast, sowie diesen hauswirtschaftlichen Fähigkeiten näherzubringen.
 
 
               Dich erwartet...
 
-              - die Möglichkeit, in einem neu gegründeten Team, den pädagogischen Alltag der Kinder und Jugendlichen mitzugestalten
-              - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD)
-              - eine umfangreiche betriebliche Altersvorsorge
-              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung
-              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken
+              - die Möglichkeit, sich in einem tollen Team einzubringen.
+              - das Interesse an einer langfristigen Zusammenarbeit.
+              - eine Vergütung, angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD).
     styles:
       self:
         height: auto

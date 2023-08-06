@@ -1,5 +1,5 @@
 ---
-title: Pädagogische Fachkraft (m/w/d) | HermesHof
+title: Sozialpädagog*innen als Wohngruppenleitung (m/w/d) | HermesHof
 layout: PageLayout
 sections:
   - type: JobsSection
@@ -9,23 +9,28 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Pädagogische Fachkräfte (m/w/d) (Erzieher*innen, Heilerziehungspfleger*innen und Sozialpädagog*innen im Berufsanerkennungsjahr) in Voll- und Teilzeit.
+            title: Sozialpädagog*innen (m/w/d) in Voll- oder Teilzeit als Wohngruppenleitung
             location: Twist/Schöninghsdorf
             text: |-
-              Du bist bei uns richtig, wenn du...
+              Dein Aufgabengebiet:
 
-              - motiviert und engagiert bist, Kindern und Jugendlichen ab einem Alter von 10 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen
-              - deine kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchtest
-              - teamfähig und zuverlässig bist, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchtest
+              - Leitung eines multiprofessionellen Teams
+              - Kooperative Mitarbeiterführung und Übernahme von Leitungsverantwortung, wie z.B. das Führen von Mitarbeiterjahresgesprächen
+              - Teilnahme und Durchführung von Hilfeplangesprächen mit den Jugendämtern
+              - Die Durchführung und Überprüfung vom Berichtswesen
+              - Anleitung von Praktikant*innen
+              - Dienstplangestaltung
+              - Planung, Organisation und Durchführung des pädagogischen Alltags im Tagdienst
+              - Mitarbeit bei der Weiterentwicklung des Qualitätsmanagements
 
 
-              Dich erwartet...
+              Wir bieten dir:
 
-              - die Möglichkeit, in einem neu gegründeten Team, den pädagogischen Alltag der Kinder und Jugendlichen mitzugestalten
-              - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD)
-              - eine umfangreiche betriebliche Altersvorsorge
-              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung
-              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken
+              - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD).
+              - Sozialleistungen wie bspw. eine umfangreiche betriebliche Altersvorsorge und Vermögenswirksame Leistungen
+              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung.
+              - Die Möglichkeit zur Mitbestimmung und Weiterentwicklung der gesamten Einrichtung
+              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in dem systemischen Grundgedanken.
     styles:
       self:
         height: auto

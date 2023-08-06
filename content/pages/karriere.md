@@ -129,7 +129,7 @@ sections:
       - type: FeaturedItem
         title: Pädagogische Fachkraft (m/w/d)
         text: >
-          Vollzeit | Twist/Schöninghsdorf
+          Vollzeit/Teilzeit | Twist/Schöninghsdorf
         styles:
           self:
             textAlign: left
@@ -146,6 +146,78 @@ sections:
             label: Zur Stellenbeschreibung
             altText: ''
             url: /jobs/paedagogische-fachkraft
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: Sozialpädagog*innen als Wohngruppenleitung (m/w/d)
+        text: >
+          Vollzeit/Teilzeit | Twist/Schöninghsdorf
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-black
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Zur Stellenbeschreibung
+            altText: ''
+            url: /jobs/sozialpaedagoge
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: Hauswirtschafter*in (m/w/d)
+        text: >
+          Teilzeit | Twist/Schöninghsdorf
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-black
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Zur Stellenbeschreibung
+            altText: ''
+            url: /jobs/hauswirtschafter
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+      - type: FeaturedItem
+        title: Hausmeister*in (m/w/d)
+        text: >
+          Teilzeit | Twist/Schöninghsdorf
+        styles:
+          self:
+            textAlign: left
+            borderColor: border-black
+            borderWidth: 1
+            borderStyle: solid
+            padding:
+              - pt-4
+              - pl-4
+              - pb-6
+              - pr-4
+        actions:
+          - type: Link
+            label: Zur Stellenbeschreibung
+            altText: ''
+            url: /jobs/hausmeister
             showIcon: true
             icon: arrowRight
             iconPosition: right

@@ -1,5 +1,5 @@
 ---
-title: Pädagogische Fachkraft (m/w/d) | HermesHof
+title: Hausmeister*in (m/w/d) | HermesHof
 layout: PageLayout
 sections:
   - type: JobsSection
@@ -9,23 +9,20 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Pädagogische Fachkräfte (m/w/d) (Erzieher*innen, Heilerziehungspfleger*innen und Sozialpädagog*innen im Berufsanerkennungsjahr) in Voll- und Teilzeit.
+            title: Hausmeister*in (m/w/d) im Rahmen einer geringfügigen Tätigkeit
             location: Twist/Schöninghsdorf
             text: |-
               Du bist bei uns richtig, wenn du...
 
-              - motiviert und engagiert bist, Kindern und Jugendlichen ab einem Alter von 10 Jahren in ihrem Alltag pädagogisch zu begleiten und zu unterstützen
-              - deine kreativen Ideen und Visionen im Wohngruppenalltag ein- und umsetzen möchtest
-              - teamfähig und zuverlässig bist, sowie mit Begeisterung in der stationären Kinder- und Jugendhilfe tätig werden möchtest
+              - motiviert und engagiert bist, die Gartenpflege außerhalb sowie Reparaturen innerhalb der Wohngruppe zu übernehmen 
+              - Freude am Kontakt mit Kindern und Jugendlichen hast
+              - eine selbstständige und zuverlässige Arbeitsweise vorweist
 
 
               Dich erwartet...
 
-              - die Möglichkeit, in einem neu gegründeten Team, den pädagogischen Alltag der Kinder und Jugendlichen mitzugestalten
-              - eine Vergütung angelehnt an den Tarifvertrag des öffentlichen Dienstes (TVöD)
-              - eine umfangreiche betriebliche Altersvorsorge
-              - unser Interesse an einer langfristigen Zusammenarbeit und gemeinsamer Weiterentwicklung
-              - der Zugang zu unterschiedlichen Fort- und Weiterbildungsmöglichkeiten, unter anderem in der Traumapädagogik und zum systemischen Grundgedanken
+              - das Interesse an einer langfristigen Zusammenarbeit
+              - die Einbindung in ein Team unterschiedlicher Professionen
     styles:
       self:
         height: auto
