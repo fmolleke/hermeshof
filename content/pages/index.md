@@ -165,8 +165,9 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
+      - content/pages/blog/5_ferienfreizeit_bensersiel.md
       - content/pages/blog/4_bubble_soccer.md
-      - content/pages/blog/3_projekt_sonnenliege.md
+      # - content/pages/blog/3_projekt_sonnenliege.md
       # - content/pages/blog/2_tiergestuetzte_paedagogik.md
       # - content/pages/blog/1_lebenspraktische_faehigkeiten_erlernen.md
     styles:
