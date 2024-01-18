@@ -2,11 +2,10 @@
     "type": "Person",
     "firstName": "Manuela",
     "lastName": "Robben",
-    "role": "Geschäftsführung/pädagogische Leitung",
+    "role": "Geschäftsführung/Leitung ambulanter Dienst",
     "bio": "",
-    "mail": "wohngruppehermeshof@gmail.com",
+    "mail": "ambulantefamilienhilfe@hermeshof.com",
     "mobile": "+49 1516 4615477",
-    "telephone": "+49 5935 1856",
     "image": {
         "type": "ImageBlock",
         "url": "/bilder/mitarbeiter/manuela-robben.jpg",

@@ -174,54 +174,6 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
-      - type: FeaturedItem
-        title: Hauswirtschafter*in (m/w/d)
-        text: >
-          Teilzeit | Twist/Schöninghsdorf
-        styles:
-          self:
-            textAlign: left
-            borderColor: border-black
-            borderWidth: 1
-            borderStyle: solid
-            padding:
-              - pt-4
-              - pl-4
-              - pb-6
-              - pr-4
-        actions:
-          - type: Link
-            label: Zur Stellenbeschreibung
-            altText: ''
-            url: /jobs/hauswirtschafter
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-      - type: FeaturedItem
-        title: Hausmeister*in (m/w/d)
-        text: >
-          Teilzeit | Twist/Schöninghsdorf
-        styles:
-          self:
-            textAlign: left
-            borderColor: border-black
-            borderWidth: 1
-            borderStyle: solid
-            padding:
-              - pt-4
-              - pl-4
-              - pb-6
-              - pr-4
-        actions:
-          - type: Link
-            label: Zur Stellenbeschreibung
-            altText: ''
-            url: /jobs/hausmeister
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
     columns: 3
     enableHover: false
     styles:

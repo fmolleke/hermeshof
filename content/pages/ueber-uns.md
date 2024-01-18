@@ -62,6 +62,7 @@ sections:
     people:
       - content/data/team/rene-hermes.json
       - content/data/team/manuela-robben.json
+      - content/data/team/lisa-ruempker.json
       - content/data/team/sissy-hoeft.json
       - content/data/team/elena-pieper.json
       - content/data/team/timo-maesker.json
@@ -94,7 +95,7 @@ sections:
     people:
       - content/data/team/annelise-wolken.json
       - content/data/team/magdalena-hermes.json
-      - content/data/team/hans-hermann-schulte.json
+      - content/data/team/oliver-wilmes.json
     styles:
       self:
         height: auto

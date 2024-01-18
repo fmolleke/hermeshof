@@ -1,0 +1,15 @@
+{
+    "type": "Person",
+    "firstName": "Lisa",
+    "lastName": "Rümpker",
+    "role": "Pädagogische Leitung",
+    "bio": "",
+    "mail": "wohngruppehermeshof@gmail.com",
+    "mobile": "+49 175 3251792",
+    "telephone": "+49 5935 9320993",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/bilder/mitarbeiter/blank.png",
+        "altText": "Lisa Rümpker"
+    }
+}

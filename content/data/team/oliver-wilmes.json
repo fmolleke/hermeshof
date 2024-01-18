@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "firstName": "Hans-Hermann",
-    "lastName": "Schulte",
+    "firstName": "Oliver",
+    "lastName": "Wilmes",
     "role": "Hausmeister",
     "bio": "",
     "mail": "",
@@ -9,7 +9,7 @@
     "telephone": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/bilder/mitarbeiter/hans-hermann-schulte.jpg",
-        "altText": "Hans-Hermann Schulte"
+        "url": "/bilder/mitarbeiter/blank.png",
+        "altText": "Oliver Wilmes"
     }
 }
